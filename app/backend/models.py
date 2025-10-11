@@ -35,3 +35,6 @@ class Budget(db.Model, QuestionBase):
 
 class Economics(db.Model, QuestionBase):
     __tablename__ = 'eco_questions'
+    
+class RBI_Annual_Report(db.Model, QuestionBase):
+    __tablename__ = 'rbi_annual_report_questions'

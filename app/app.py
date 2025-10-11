@@ -19,7 +19,8 @@ CATEGORY_MODELS = {
     'april': April,
     'budget': Budget,
     'eco' : Economics,
-    'govt_scheme': GovtScheme
+    'govt_scheme': GovtScheme,
+    'rbi_annual_report': RBI_Annual_Report
 }
 
 CATEGORY_DISPLAY_NAMES = {
@@ -30,7 +31,8 @@ CATEGORY_DISPLAY_NAMES = {
     'april': 'April',
     'budget': 'Budget',
     'eco' : 'Economics',
-    'govt_scheme': 'Government Schemes'
+    'govt_scheme': 'Government Schemes',
+    'rbi_annual_report': 'RBI Annual Report'
 }
 
 # Map file names to model classes
@@ -42,7 +44,8 @@ FILE_TO_MODEL = {
     'april.txt': April,
     'budget.txt': Budget,
     'eco.txt' : Economics,
-    'govt_scheme.txt': GovtScheme
+    'govt_scheme.txt': GovtScheme,
+    'rbi_annual_report.txt': RBI_Annual_Report
 }
 
 @app.route('/')

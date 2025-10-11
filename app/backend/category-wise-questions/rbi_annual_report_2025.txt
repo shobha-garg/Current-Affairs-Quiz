@@ -1,0 +1,146 @@
+[
+    {
+      "question": "The Reserve Bank of India released its Annual Report for 2024-25, a statutory report of its Central Board of Directors. The Report covers the working and functions of the Reserve Bank of India for the period April 2024 - March 2025. Which of the following statements is/are correct in regards to the Global Economy?\n1. As per International Monetary Fund (IMF), global growth at 3.3% in 2024 (3.5% a year ago) was below the historical average (2000-19) of 3.7%.\n2. Global inflation is expected to moderate from 4.7% in 2024 to 4.3% in 2025 and further to 3.6% in 2026.\n3. Global merchandise trade volume expanded by 2.9% in 2024 after contracting by 3.0% in 2023 with easing of supply chain pressures.",
+      "option_a": "1 and 2",
+      "option_b": "1 and 3",
+      "option_c": "2 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "D"
+    },
+    {
+      "question": "Brazil assumed the G20 Presidency from India for 2023-24, forming a historic troika of three nations from the Global South. Under the overarching theme of 'Building a Just World and a Sustainable Planet', which of the following were key priorities of Brazil's Presidency?\n1. Combating hunger, poverty, and inequality\n2. Advancing economic, social, and environmental sustainability\n3. Promoting free trade agreements among G20 nations\n4. Reforming global governance structures\n5. Strengthening multilateralism through inclusive representation",
+      "option_a": "1, 2 and 3",
+      "option_b": "2, 3 and 5",
+      "option_c": "1, 3 and 5",
+      "option_d": "1 and 5",
+      "option_e": "1, 2 and 4",
+      "correct_option": "E"
+    },
+    {
+      "question": "Although real GDP growth moderated to ______% in 2024-25 as compared with 9.2% a year ago, India remained the fastest growing major economy. Economic activity was supported by an improvement in consumption demand and net exports on the expenditure side, and buoyant services sector and recovery in agricultural production on the supply side.",
+      "option_a": "7.8%",
+      "option_b": "8.2%",
+      "option_c": "7.2%",
+      "option_d": "6.5%",
+      "option_e": "6.1%",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements is/are incorrect in Regard to the Annual Report?\n1. Aggregate supply – measured by real gross value added (GVA) at basic prices – expanded by 5.4% in 2024-25 as compared with 8.6% a year ago.\n2. The services sector, with a share of 64.1% in GVA, remained the mainstay of aggregate supply with a growth of 7.5% in 2024-25.\n3. Climate Change Performance Index (CCPI) 2025, ranked India among the top 5 high performers for the sixth year in a row since 2020.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "Headline inflation moderated to an average of ______% during 2024-25 from 5.4% in the previous year, largely driven by a moderation in core (CPI excluding food and fuel) inflation to 3.5% from 4.3% a year ago and deflation in fuel at 2.5%",
+      "option_a": "5.2%",
+      "option_b": "4.8%",
+      "option_c": "4.6%",
+      "option_d": "4.4%",
+      "option_e": "4.2%",
+      "correct_option": "C"
+    },
+    {
+      "question": "Considering the growth-inflation dynamics, the Monetary Policy Committee (MPC) changed the policy stance from withdrawal of accommodation to neutral in October 2024 providing the flexibility to monitor the outlook and progress on disinflation and growth and act in accordance with the evolving situation. Subsequently, with the growth-inflation dynamics opening up policy space to support growth, the MPC reduced the policy repo rate by 25 bps to 6.25% in ______ after maintaining status quo since February 2023 at 6.50%.",
+      "option_a": "August 2025",
+      "option_b": "June 2025",
+      "option_c": "April 2025",
+      "option_d": "February 2025",
+      "option_e": "December 2024",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements is/are correct in regard to the data provided in the Annual Report of RBI?\n1. From 2026-27 onwards, the central government aims to maintain the fiscal deficit on a trajectory that ensures a declining public debt-to-GDP ratio, reaching around 40% by end-March 2031.\n2. The central government delivered on its fiscal consolidation commitment, with gross fiscal deficit (GFD) declining to 4.7% of GDP in 2024-25 [revised estimates (RE)] from 5.5% of GDP in 2023-24.\n3. The Union Budget 2025-26 continued towards Fiscal consolidation with target of GFD of 3.4% of GDP which is expected to be driven by moderation in the revenue expenditure to 11.0% of GDP in 2025-26 (BE) with Enhanced tax and nontax receipts.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "Major destinations for India's outward FDI were Singapore, the US, the UAE, Mauritius, and the Netherlands. Globally, India was placed ______ in terms of greenfield FDI capital investments announced during 2024-25, according to fDi Markets.",
+      "option_a": "Third",
+      "option_b": "Fourth",
+      "option_c": "Fifth",
+      "option_d": "Sixth",
+      "option_e": "Tenth",
+      "correct_option": "B"
+    },
+    {
+      "question": "The value and volume of banknotes in circulation increased by 6.0% and 5.6%, respectively, during 2024-25. During 2024-25, the share of ₹______ banknotes in value terms (86%) and in volume terms (40.9%), constituted the highest share of the total banknotes in circulation.",
+      "option_a": "100",
+      "option_b": "200",
+      "option_c": "500",
+      "option_d": "10",
+      "option_e": "20",
+      "correct_option": "C"
+    },
+    {
+      "question": "India's payment and settlement systems recorded a robust growth of 34.8 per cent in terms of transaction volume during 2024-25 on top of the expansion of 44 per cent in the previous year. In terms of volume, UPI transactions had the highest share (84%) in total retail payments during 2024-25. The success of UPI placed India in a leadership position with a share of ______% in global real-time payments by volume as per ACI Worldwide, 2024.",
+      "option_a": "60.8",
+      "option_b": "55.2",
+      "option_c": "48.5",
+      "option_d": "40.7",
+      "option_e": "35.6",
+      "correct_option": "C"
+    },
+    {
+      "question": "In order to encourage wider adoption of UPI, limits were enhanced for the various products of UPI. Which of the followings statements is/are correct in regard to the enhancement of limits?\n1. UPI Lite wallet limit of ₹500 per transaction and overall per wallet limit of ₹2,000 were increased to ₹2,000 and ₹10,000, respectively.\n2. Under UPI123Pay, In consultation with the stakeholders, the per-transaction limit was increased to ₹10,000 from ₹5,000.\n3. Considering that direct and indirect tax payments are regular, common and high value, the limit for tax payments through UPI was enhanced from ₹1 lakh to ₹5 lakh per transaction.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "The ECF requires Contingent Risk Buffer (CRB) to be maintained in the range of 4.50% to 7.50% of the size of the balance sheet. The Central Board approved that CRB may be maintained at ______% of the size of the balance sheet of the Reserve Bank for the year 2024-25.",
+      "option_a": "5.5%",
+      "option_b": "6%",
+      "option_c": "6.5%",
+      "option_d": "7%",
+      "option_e": "7.5%",
+      "correct_option": "E"
+    },
+    {
+      "question": "The Reserve Bank's balance sheet size moderated to ______ of GDP as at end March 2025 from 23.5% as at end-March 2024, mirroring the trend observed in other major economies.",
+      "option_a": "23.2%",
+      "option_b": "21.6%",
+      "option_c": "22.8%",
+      "option_d": "20.5%",
+      "option_e": "21.2%",
+      "correct_option": "C"
+    },
+    {
+      "question": "Keeping in view the rise in agricultural input costs and overall inflation, the limit for collateral-free agriculture loans was raised from ₹1.6 lakh to ₹______ lakh per borrower in December 2024 to further enhance credit availability for small and marginal farmers.",
+      "option_a": "1.8",
+      "option_b": "2.0",
+      "option_c": "2.5",
+      "option_d": "2.8",
+      "option_e": "3.6",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements regarding the eligibility and conditions for a Small Finance Bank (SFB) to transition into a Universal Bank:\n1. SFB must have a minimum net worth of ₹1,000 crore as at the end of the previous audited quarter.\n2. An eligible SFB must have been profitable in each of the last five financial years.\n3. SFB's shares should have been listed on a recognised stock exchange.\n4. SFB having GNPA and NNPA of less than or equal to 3% and 2% respectively in the last 2-financial years.\nWhich of the above statements are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "1 and 3 only",
+      "option_c": "2, 3 and 4 only",
+      "option_d": "1, 2 and 3 only",
+      "option_e": "1, 3 and 4 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "A 'FinTech Repository' was launched on May 28, 2024, to capture essential information about FinTech entities, their activities and technology stack. Simultaneously, a related repository for REs was also launched to capture information on their adoption of emerging technologies such as artificial intelligence (AI), machine learning (ML), cloud computing, distributed ledger technology (DLT). What was the name of the repository?",
+      "option_a": "SupTech Repository",
+      "option_b": "RegTech Repository",
+      "option_c": "TechAdopt Repository",
+      "option_d": "EmTech Repository",
+      "option_e": "DigiTech Repository",
+      "correct_option": "D"
+    }
+  ]
