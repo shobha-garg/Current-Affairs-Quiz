@@ -20,7 +20,8 @@ CATEGORY_MODELS = {
     'budget': Budget,
     'eco' : Economics,
     'govt_scheme': GovtScheme,
-    'rbi_annual_report': RBI_Annual_Report
+    'rbi_annual_report': RBI_Annual_Report,
+    'rbi_general_awareness': RBI_General_Awareness
 }
 
 CATEGORY_DISPLAY_NAMES = {
@@ -32,7 +33,8 @@ CATEGORY_DISPLAY_NAMES = {
     'budget': 'Budget',
     'eco' : 'Economics',
     'govt_scheme': 'Government Schemes',
-    'rbi_annual_report': 'RBI Annual Report'
+    'rbi_annual_report': 'RBI Annual Report',
+    'rbi_general_awareness': 'RBI General Awareness'
 }
 
 # Map file names to model classes
@@ -45,7 +47,8 @@ FILE_TO_MODEL = {
     'budget.txt': Budget,
     'eco.txt' : Economics,
     'govt_scheme.txt': GovtScheme,
-    'rbi_annual_report.txt': RBI_Annual_Report
+    'rbi_annual_report_2025.txt': RBI_Annual_Report,
+    'rbi_ga.txt': RBI_General_Awareness
 }
 
 @app.route('/')

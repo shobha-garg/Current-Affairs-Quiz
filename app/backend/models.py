@@ -38,3 +38,6 @@ class Economics(db.Model, QuestionBase):
     
 class RBI_Annual_Report(db.Model, QuestionBase):
     __tablename__ = 'rbi_annual_report_questions'
+
+class RBI_General_Awareness(db.Model, QuestionBase):
+    __tablename__ = 'rbi_general_awareness_questions'

@@ -1,0 +1,1838 @@
+[
+    {
+      "question": "Consider the following statements regarding the India Rankings 2025. Identify the correct statements from those given below:\n1. It has been released by Department of Higher Education, Ministry of Education, and evaluates and ranks higher education institutions in India across multiple categories and subject domains.\n2. India Rankings, launched in 2006 with 1 category (Universities) and 3 subject domains (Engineering, Management, Pharmacy), expanded to 9 categories and 8 subject domains from 2007 to 2025.\n3. National Institutional Ranking Framework (NIRF), launched in September 2015 by the Ministry of Education, was used for the 2025 edition.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "Consider the following statements regarding India Rankings 2025, and identify correct statements:\n1. Indian Institute of Technology Madras has maintained its 1st position in the Overall category for seven consecutive years (2019-2025), and is on top in the SDG category.\n2. Indian Institute of Science, Bengaluru has topped the Engineering category.\n3. IGNOU holds the top position in the open universities category.",
+      "option_a": "1 only",
+      "option_b": "1 and 3 only",
+      "option_c": "2 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "With reference to the Global Innovation Index (GII) 2025, consider the following statements and identify the incorrect statements:\n1. The Global Innovation Index ranking is prepared on the basis of two distinct sub-indices that collectively utilize 78 indicators to assess innovation ecosystems.\n2. The Innovation Output Sub-Index is organized into five separate pillars that evaluate the tangible results of innovation activities within the economy.\n3. The Global Innovation Index is an annual publication released by the World Intellectual Property Organization (WIPO) in partnership with the Portulans Institute covering performance of economies worldwide.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "2 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to India’s performance in the Global Innovation Index (GII) 2025, consider the following statements and identify the correct statements:\n1. India’s overall position in the Global Innovation Index improved from 39th rank in 2024 to 38th rank in 2025, continuing its gradual rise over the years.\n2. India is represented by a total of four major innovation clusters in the world’s list of top 100 clusters, reflecting its strong regional performance.\n3. Shenzhen - Hong Kong - Guangzhou (China and Hong Kong, China) topped the GII 100 innovation cluster rankings.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which one of the following countries belong to the group of top five rankers in the Global Innovation Index (GII) 2025?",
+      "option_a": "Switzerland",
+      "option_b": "Sweden",
+      "option_c": "Republic of Korea",
+      "option_d": "Singapore",
+      "option_e": "All of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the Periodic Labour Force Survey (PLFS) Monthly Bulletin – August 2025, identify the correct statement(s):\n1. The Unemployment Rate (UR) among persons aged 15 years and above declined to 5.1% in August 2025.\n2. The Worker Population Ratio (WPR) increased to 62.2% in August 2025 compared to 51.2% in June 2025.\n3. The rural unemployment rate has fallen for 3 consecutive months, from 5.1% in May 2025 to 4.3% in August 2025.",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 3",
+      "option_d": "All of the above",
+      "option_e": "Only 1",
+      "correct_option": "C"
+    },
+    {
+      "question": "Consider the following statements regarding the World Talent Ranking 2025 released by the Institute for Management Development (IMD), and identify the incorrect statements:\n1. The ranking evaluates competencies for long-term economic value by assessing workforce growth, retention, and attraction.\n2. Iceland has secured the top position for the 10th consecutive year with a score of 100.\n3. India has been ranked 63rd, while Mongolia ka was placed at the bottom (69th position).",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 3",
+      "option_d": "Only 2",
+      "option_e": "1, 2 and 3",
+      "correct_option": "D"
+    },
+    {
+      "question": "Consider the following statements regarding the Air Quality Life Index (AQLI) 2025. Identify the incorrect statements from those given below:\n1. It has been released by Energy Policy Institute at the University of Chicago (EPIC).\n2. According to report, the toxic air reduces the life expectancy of Indians by an average of 3.5 years, whereas malnutrition reduces life expectancy by 1.6 years.\n3. Southern India is the most polluted region on Earth, with 544.4 million people (38.9% of India’s population) living under severe air pollution.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "3 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the “Assessment of Logistics Cost in India – September 2025” report, identify the in-correct statement(s):\n1. The study has been conducted by the National Council of Applied Economic Research (NCAER) for the Logistics Division, DPIIT, Ministry of Commerce and Industry.\n2. India’s aggregate logistics cost is estimated at ₹24.01 lakh crore at 2023–24 prices.\n3. Total logistics cost accounts for 7.97% of India’s GDP and 9.09% of nonservices (agriculture, mining, and manufacturing) output in 2023-24.",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 3",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding the Unified District Information System for Education Plus (UDISE+) 2024–25. Identify the incorrect statements from those given below:\n1. The UDISE+ 2024–25 report was released by the Department of School Education & Literacy (DoSEL), Ministry of Education, providing insights on the status of school education across states and UTs.\n2. For the first time since the inception of UDISE+, the total number of teachers crossed the 1-crore mark in 2024–25, showing a rise of 16.7% compared to 2022–23.\n3. The Pupil-Teacher Ratio (PTR) at the Secondary level was 21, well below the NEP’s maximum of 30:1, hence better than the benchmark.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "2 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding developments in school education during 2024–25. Identify the incorrect statements from those given below:\n1. In 2024–25, the number of single-teacher schools fell by about 6% and zero-enrolment schools declined by about 38%, both indicating positive progress.\n2. Girls’ enrolment in schools increased to 48.3% in 2024–25, compared to 48.1% in 2023–24, reflecting improved female representation.\n3. The Gross Enrolment Ratio (GER) at the Middle level declined to 89.5% in 2024–25, while the GER at the Secondary level fell to 66.5% in the same year.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "3 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which one of the following organizations are responsible for the launch of the report “The State of Food Security and Nutrition in the World (SOFI) 2025 – Addressing high food price inflation for food security and nutrition”?",
+      "option_a": "Food and Agriculture Organization (FAO) of the United Nations",
+      "option_b": "International Fund for Agricultural Development (IFAD)",
+      "option_c": "United Nations Children’s Fund (UNICEF)",
+      "option_d": "World Food Programme (WFP)",
+      "option_e": "All of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding global hunger and nutrition as highlighted in The State of Food Security and Nutrition in the World (SOFI) 2025 report. Identify the correct statements from those given below:\n1. In 2024, hunger was reported to have affected up to 720 million individuals worldwide, which accounted for nearly 8.2% of the total global population, showing only a modest improvement from the previous year.\n2. The largest proportion of the undernourished population was observed in Asia, followed by Africa and then Latin America & the Caribbean, reflecting significant regional disparities.\n3. It was estimated that around 2.3 billion people across the globe were either moderately or severely food insecure during 2024, highlighting the widespread nature of the crisis.\n4. By the year 2030, nearly 112 million people are projected to face chronic undernourishment, with close to 60% of this burden concentrated in Africa, underscoring the continent’s vulnerability.",
+      "option_a": "1, 2 and 3 only",
+      "option_b": "2 and 4 only",
+      "option_c": "1, 3 and 4 only",
+      "option_d": "2, 3 and 4 only",
+      "option_e": "1, 2, 3 and 4",
+      "correct_option": "A"
+    },
+    {
+      "question": "Consider the following statements regarding the report “Towards Resilient and Prosperous Cities in India”. Identify the correct statements from those given below:\n1. The report was released by the World Bank in collaboration with the Union Ministry of Housing and Urban Affairs.\n2. India’s urban population is projected to almost double to 951 million by 2050 and further rise to 1.1 billion by 2070.\n3. By 2050, Indian cities will require investments exceeding $2.4 trillion to develop resilient and low-carbon infrastructure and services.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "None of the above",
+      "correct_option": "D"
+    },
+    {
+      "question": "Consider the following statements regarding the Annual Survey of Industries (ASI) 2023–24. Identify the correct statements from those given below:\n1. The Annual Survey of Industries (ASI) 2023–24 was released by the Ministry of Statistics & Programme Implementation (MoSPI), covering industrial performance for the period April 2023 to March 2024.\n2. As per the survey, Gross Value Added (GVA) increased by 31.89%, while output rose by 5.80% and input increased by 4.71% compared to the previous year.\n3. At the state level, Gujarat ranked first in terms of fixed capital, while Tamil Nadu ranked first in terms of total persons engaged.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "Consider the following statements regarding the State Energy Efficiency Index (SEEI) 2024. Identify the incorrect statements from those given below:\n1. The State Energy Efficiency Index (SEEI) 2024 was released by the Bureau of Energy Efficiency (BEE) in association with the Alliance for an Energy Efficient Economy (AEEE) and it assessed the energy efficiency performance of 36 States and UTs for FY 2023–24.\n2. The SEEI 2024 classified states and UTs into four performance categories – Front Runners, Achievers, Contenders, and Aspirants – with Front Runners scoring above 60%.\n3. Among the top-performing states, Andhra Pradesh led in Group 1 (>15 MToE) while Tripura topped in Group 2 (5–15 MToE).",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "3 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding the National Annual Report and Index (NARI) 2025 on Women’s Safety. Identify the incorrect statements from those given below:\n1. The NARI 2025 Report was released by the National Commission for Women (NCW) and surveyed women across 31 cities, evaluating safety on parameters such as infrastructure, harassment incidence, workplace security, and perceptions of safety.\n2. The national safety score was benchmarked at 55%, while the All India Average stood much above at 64.6%.\n3. Among the safest cities with scores much higher than the national average were Kohima (82.9%), Visakhapatnam (72.7%), and Bhubaneswar (70.9%).",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "2 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the findings of the National Annual Report and Index (NARI) 2025 on Women’s Safety, identify the correct statements from those given below:\n1. Overall, about 60% of women surveyed felt safe in their cities, while the remaining 40% perceived themselves as not so safe or unsafe.\n2. Perceptions of safety drop sharply at night, especially in public transport, recreational spaces, and off-campus areas, with educational institutions remaining 66% safe during the day.\n3. Workplaces were considered secure by a vast majority, with 91% of women reporting that they felt safe in their workplace environment.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "Consider the following statements regarding the Comprehensive Modular Survey: Education, 2025 (April–June 2025). Identify the correct statements from those given below:\n1. The survey was released by the Ministry of Statistics & Programme Implementation (MoSPI) as part of the 80th round of the National Sample Survey (NSS), focusing on household expenditure for students in school education.\n2. Government schools accounted for 55.9% of total enrolments in India, with the rural share (66%) higher than the urban share (30.1%).\n3. Nearly 95.7% of students in government schools reported paying course fees, compared to 26.7% in non-government schools.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "A"
+    },
+    {
+      "question": "As per the New Insights from Unified Payments Interface (UPI) Data report, ________ leads UPI remittances with 5.2 billion transactions, while ________ emerged as the top beneficiary member, recording nearly 8.0 billion transactions.",
+      "option_a": "HDFC Bank and ICICI Bank",
+      "option_b": "Axis Bank and Kotak Mahindra Bank",
+      "option_c": "State Bank of India (SBI) and Yes Bank",
+      "option_d": "Punjab National Bank and Bank of Baroda",
+      "option_e": "Union Bank of India and IDFC First Bank",
+      "correct_option": "C"
+    },
+    {
+      "question": "As per the TopBrand 2025 – Top 500 Global Brands list released by TopBrand Union, which company has been ranked as the world’s most valuable brand?",
+      "option_a": "NVIDIA",
+      "option_b": "Apple",
+      "option_c": "Microsoft",
+      "option_d": "Amazon",
+      "option_e": "Alphabet (Google)",
+      "correct_option": "C"
+    },
+    {
+      "question": "According to the Smart City Index 2025 released by the International Institute for Management Development (IMD), ________ ranked as the top city globally, while ________ secured the highest rank among Indian cities.",
+      "option_a": "Oslo and Mumbai",
+      "option_b": "Geneva and Hyderabad",
+      "option_c": "Zurich and Delhi",
+      "option_d": "Dubai and Bengaluru",
+      "option_e": "Abu Dhabi and Kolkata",
+      "correct_option": "C"
+    },
+    {
+      "question": "According to the Global AI City Index 2025 released by Counterpoint Research, ________ has been ranked as the top AI city globally, while ________ and ________ were identified as the biggest vendors driving AI-city activity.",
+      "option_a": "Seoul, Amazon, IBM",
+      "option_b": "Beijing, Microsoft, Meta",
+      "option_c": "Singapore, Microsoft, Google",
+      "option_d": "San Francisco, Apple, Google",
+      "option_e": "Dubai, Oracle, Amazon",
+      "correct_option": "C"
+    },
+    {
+      "question": "Consider the following statements regarding the India Electric Mobility Index (IEMI) 2024. Identify the correct statements from those given below:\n1. The IEMI 2024 was launched by NITI Aayog as the first-of-its-kind tool to systematically track and benchmark the progress of States and Union Territories (UTs) in achieving their electric mobility goals.\n2. The index evaluates Indian States and UTs across 16 indicators under 3 core themes: Transport Electrification Progress (50% weightage), Charging Infrastructure Readiness (30%), and EV Research & Innovation Status (20%).\n3. States like Karnataka, Tamil Nadu, and Haryana were categorized as Frontrunners with robust ecosystems, while Delhi and Maharashtra were placed in the Performers category.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "A"
+    },
+    {
+      "question": "With reference to the Swachh Survekshan Ranking Report 2024–25 released by the Ministry of Housing & Urban Affairs, consider the following statements:\n1. The 2024–25 edition represents the 9th edition of the Swachh Survekshan exercise, which was initially launched in 2016 to benchmark sanitation standards across cities.\n2. This year’s survey was guided by the central theme of “Replay, Replenish, and Recycle,” highlighting the importance of sustainable waste management practices.\n3. A total of 4,589 Urban Local Bodies (ULBs) actively participated in the 2024–25 survey, reflecting wider coverage compared to earlier editions.\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "1 and 3 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "3 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "With reference to the Swachh Survekshan Ranking Report 2024–25, consider the following statements:\n1. For the first time, cities were grouped into five population categories ranging from Very Small Cities (<20,000) to Million-Plus Cities (>10,00,000).\n2. The Super Swachh League was introduced this year to honor cities that consistently excelled in earlier surveys.\n3. Prayagraj was recognized as the Best Ganga Town in the 2024–25 rankings.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "1 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "3 only",
+      "correct_option": "D"
+    },
+    {
+      "question": "With reference to the Sustainable Development Goals (SDGs) – National Indicator Framework (NIF) Progress Report, 2025 released by the National Statistical Office (NSO), consider the following statements:\n1. The proportion of men, women, and children living in poverty declined from 24.85% in 2015–16 to 14.96% in 2019–21.\n2. The proportion of population covered by social protection increased from 48.8% in 2022 to 64.3% in 2025.\n3. The Gross Value Added (GVA) in agriculture per worker was ₹24,110 in 2024–25.\nWhich of the above statements is/are incorrect?",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "1 and 2 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "3 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the Sustainable Development Goals (SDGs) – National Indicator Framework (NIF) Progress Report, 2025, consider the following statements:\n1. The gross enrolment ratio for tertiary education improved to 29.5% in 2022–23.\n2. The proportion of the rural population using an improved drinking water source increased to 99.62% in 2024–25.\n3. The proportion of households electrified stood at 92% in 2024–25.\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "1 and 2 only",
+      "option_d": "2 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "C"
+    },
+    {
+      "question": "With reference to the North Eastern Region (NER) District Sustainable Development Goals (SDG) Index Report 2023-24, consider the following statements:\n1. The report was released jointly by NITI Aayog and the Ministry of Development of North Eastern Region (MoDoNER), with technical support from UNDP India.\n2. Hnahthial district of Mizoram scored the highest in the region with 81.43 points, while Longding district of Arunachal Pradesh scored the lowest with 58.71 points.\n3. All districts in Mizoram, Sikkim and Tripura achieved Front Runner status, with none in the Aspirant or Achiever categories.\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "1 and 2 only",
+      "option_d": "2 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the World Investment Report 2025: International investment in the digital economy, consider the following statements:\n1. The report was released by the UN Trade and Development (UNCTAD).\n2. Global FDI declined by 11% in 2024 to reach $1.5 trillion, marking the second consecutive year of contraction.\n3. India ranked 25th in 2024 as a top FDI host economy, an improvement from 36th in 2023, with inflows of $28 billion.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "2 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "A"
+    },
+    {
+      "question": "As per the World Investment Report 2025: International investment in the digital economy, __________ ranked 1st among the top home economies of FDI outflows, while India was placed at rank __________ in 2024, improving from 23rd position in 2023.",
+      "option_a": "United States; 18",
+      "option_b": "Japan; 18",
+      "option_c": "China; 17",
+      "option_d": "Luxembourg; 19",
+      "option_e": "Hong Kong, China; 20",
+      "correct_option": "A"
+    },
+    {
+      "question": "The report “Trends in Maternal Mortality 2000 to 2023” was released jointly by which of the following organisations?",
+      "option_a": "World Health Organization (WHO)",
+      "option_b": "United Nations International Children’s Fund (UNICEF)",
+      "option_c": "United Nations Population Fund (UNFPA)",
+      "option_d": "The World Bank Group and UN Department of Economic and Social Affairs / Population Division (UNDESA/Population Division)",
+      "option_e": "All of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "As per the report “Trends in Maternal Mortality 2000 to 2023”, India’s Maternal Mortality Ratio (MMR) in 2023 was __________ per 100,000 live births, showing an 86% decline since 1990, against a global reduction of __________.",
+      "option_a": "85; 50%",
+      "option_b": "90; 40%",
+      "option_c": "80; 48%",
+      "option_d": "70; 42%",
+      "option_e": "100; 45%",
+      "correct_option": "C"
+    },
+    {
+      "question": "With reference to the Management Effectiveness Evaluation (MEE) for 2020–2025 released by the Union Ministry of Environment, Forest and Climate Change, consider the following statements:\n1. Kerala secured the top position, being the only state to receive a “Very Good” rating.\n2. Chandigarh was the top performer among Union Territories, while Ladakh was the only region classified as “Poor.”\n3. Eravikulam National Park (Kerala) and Dachigam National Park (Jammu & Kashmir) were identified as the lowest-scoring Protected Areas (PAs).\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "With reference to The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy released by the World Bank, consider the following statements:\n1. The Global Findex Database was first launched in 2011 and this edition follows those published in 2011, 2014, 2017, and 2021.\n2. The 2025 edition introduces the Digital Connectivity Tracker to measure mobile technology access and usage.\n3. Globally, 79% of adults have an account with a bank, mobile money provider, or both, which is up by 28 percentage points since 2011.\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy, consider the following statements:\n1. In 2024, 60% of adults in developing economies saved in a financial account, marking a 16 percentage-point increase since 2021, the fastest growth in over a decade.\n2. In India, account ownership increased by over 50 percentage points, reaching 89%, with 88.7% held in banks and 23.1% using mobile money accounts.\n3. In India, 16% of account owners had inactive accounts, one of the highest globally, compared to just 4% in other low- and middle-income economies.\nWhich of the above statements is/are incorrect?",
+      "option_a": "1 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "A"
+    },
+    {
+      "question": "As per the 2024 Economic Impact Trends Report released by the World Travel & Tourism Council (WTTC) in collaboration with Oxford Economics, which one of the following countries does NOT belong to the group of top 5 largest global travel economies?",
+      "option_a": "United States of America (USA)",
+      "option_b": "Germany",
+      "option_c": "United Kingdom (UK)",
+      "option_d": "Russia",
+      "option_e": "Japan",
+      "correct_option": "D"
+    },
+    {
+      "question": "With reference to the 2024 Economic Impact Trends Report released by the World Travel & Tourism Council (WTTC) in collaboration with Oxford Economics, which of the following statements are incorrect?\n1. In 2024, Travel & Tourism contributed US$10.9 trillion to the global GDP, accounting for 10% of the world economy.\n2. The sector supported 400 million jobs globally, equivalent to about 1 in every 8 jobs.\n3. India contributed US$250 billion to the global tourism economy in 2024.\nSelect the correct answer using the code below:",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "2 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "D"
+    },
+    {
+      "question": "As per the QS Best Student Cities 2026 released by Quacquarelli Symonds (QS), __________ ended London’s six-year run at the top of the rankings, while among Indian cities, __________ ranked 98th and __________ ranked as the world’s most affordable student city.",
+      "option_a": "Tokyo; Delhi; Bengaluru",
+      "option_b": "London; Mumbai; Chennai",
+      "option_c": "Seoul; Mumbai; Delhi",
+      "option_d": "Munich; Delhi; Bengaluru",
+      "option_e": "Melbourne; Chennai; Mumbai",
+      "correct_option": "C"
+    },
+    {
+      "question": "As per the Henley Passport Index 2025 released by Hurun Global, __________ ranked 1st with visa-free access to 193 destinations, __________ was placed last at 99th with access to only 25 destinations, while India ranked _______ globally, improving eight positions from 2024.",
+      "option_a": "Japan; Syria; India",
+      "option_b": "Singapore; Afghanistan; 77th",
+      "option_c": "South Korea; Iraq; India",
+      "option_d": "Singapore; Afghanistan; China",
+      "option_e": "Japan; Afghanistan; India",
+      "correct_option": "B"
+    },
+    {
+      "question": "With reference to the Global Unicorn Index 2025 released by Hurun Global, consider the following statements:\n1. The United States of America ranked 1st with 758 unicorns, the highest in the world.\n2. India ranked 3rd globally with 64 unicorns in 2025.\n3. San Francisco topped the list of cities with the most unicorns, and from India, Bengaluru featured in the list.\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "1 and 2 only",
+      "option_d": "2 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "As per the Statistical Review of World Energy 2025 released by the Energy Institute (EI) in collaboration with Kearney and KPMG, what is the rank of India among the top consumers of biofuel?",
+      "option_a": "2nd",
+      "option_b": "3rd",
+      "option_c": "4th",
+      "option_d": "5th",
+      "option_e": "6th",
+      "correct_option": "C"
+    },
+    {
+      "question": "As per the inaugural TIME 100 Creators List, who was the sole Indian featured on the list?",
+      "option_a": "Dhar Mann",
+      "option_b": "Michelle Khare",
+      "option_c": "Prajakta Koli",
+      "option_d": "Samir Chaudry",
+      "option_e": "Jay Shetty",
+      "correct_option": "C"
+    },
+    {
+      "question": "With reference to Global Gender Gap Report 2025, consider the following statements and identify incorrect statements:\n1. The report has been released by World Economic Forum, annually benchmarks the current state and evolution of gender parity.\n2. The framework assesses the gender parity across 4 sub-indexes, on a scale of 0 to 1.\n3. Iceland has topped the report and is followed by Finland, Norway on 2nd and 3rd position respectively.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding the Global Gender Gap Report 2025:\n1. The Global Gender Gap Index score has shown a consistent improvement, increasing from 64.1% in 2006 to 68.8% in 2025, reflecting a total rise of 4.8 percentage points over this period.\n2. Bangladesh recorded the most significant advancement in the rankings, moving upward by 75 positions to secure the 24th place, marking the highest improvement among all economies in the report.\n3. India, with a parity score of 64.4% in the 2025 edition of the report, is counted among the highest-performing countries in South Asia, ahead of most of its regional peers.\nWhich of the above statements is/are correct?",
+      "option_a": "1 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements regarding the State of the World Population 2025 report:\n1. The State of the World Population 2025 report has been released by the United Nations Population Fund (UNFPA), focusing on global demographic changes.\n2. By April 2025, India’s population touched 146.39 crore, and the country’s Total Fertility Rate (TFR) declined to 1.9, which is below the replacement level of 2.1.\n3. The report states that almost one-fifth of reproductive-age adults (about 18%) believe they will be able to have the exact number of children they desire.\nWhich of the above statements is/are incorrect?",
+      "option_a": "3 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "A"
+    },
+    {
+      "question": "Consider the following statements regarding the State of the World Population 2025 report:\n1. India has overtaken China to become the world’s most populous country, with China’s current population estimated at 141.61 crore.\n2. The adolescent fertility rate in India is recorded at 14.1 births per 1,000 women in the age group of 15–19 years.\n3. As per 2025 projections, life expectancy at birth in India is estimated at 71 years for men and 74 years for women.\nWhich of the above statements is/are incorrect?",
+      "option_a": "1 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Recently (June 2025), the Sustainable Development Report 2025 was released. Consider the following statements regarding India’s performance and the global trends in the SDG Index, and identify the incorrect statements:\n1. As per the 2025 report, only 17% of the global Sustainable Development Goals (SDG) targets are currently progressing on schedule and are likely to be achieved by the year 2030.\n2. India has made remarkable progress and has been placed among the top 50 performing countries globally in the SDG Index 2025 out of a total of 167 nations assessed.\n3. The SDG Index, which assesses progress toward achieving the 17 goals adopted in 2015, is released by the United Nations Sustainable Development Solutions Network (UN SDSN).",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "Only 2",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following countries does not belong to the top-countries as per Sustainable Development Report 2025?",
+      "option_a": "Finland",
+      "option_b": "Sweden",
+      "option_c": "Denmark",
+      "option_d": "Germany",
+      "option_e": "South Sudan",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the Performance Grading Index (PGI) 2.0 for States/UTs - 2023-24, consider the following statements and identify incorrect statements:\n1. The report released by Department of School Education and Literacy, Ministry of Education helps States/UTs to identify specific interventions required to make transformational changes in school education.\n2. PGI framework carries a total weightage of 1000 points, distributed across 73 indicators, categorized under 2 broad areas: Outcomes and Governance & Management.\n3. The highest grade achieved under the PGI is Prachesta-1, which corresponds to a score range of 701–760. Only Chandigarh has attained Grade Prachesta -1, no state or UT made it to the top 4 levels.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference World Energy Investment Report 2025, consider the following statements and identify incorrect statements:",
+      "option_a": "According to the report released by IEA, global energy investment is projected to reach $3.3 trillion in 2025 (2% increase over 2024).",
+      "option_b": "Clean energy technologies are set to attract $2.2 trillion, twice the projected investment in fossil fuels.",
+      "option_c": "China remains the world’s largest energy investor, with its share of global clean energy investment rising from one-fourth a decade ago to nearly one-third in 2025. While, India stood on 6th position.",
+      "option_d": "India has recorded the 3rd-largest increase in power generation capacity globally over the past five years, following China and the United States.",
+      "option_e": "India’s renewable power investment decreased from $37 billion (2015) to $13 billion (2025)",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which one of the following statements are incorrect as per the Fostering Effective Energy Transition Report 2025:",
+      "option_a": "1 and 4 only",
+      "option_b": "2 and 5 only",
+      "option_c": "3 only",
+      "option_d": "1, 2, 3, and 4",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the Global Economic Prospects - June 2025 released by the World Bank Group, consider the following statements and identify incorrect statements:\n1. Global growth is expected to slow to 2.6% in 2025, due to higher trade barriers, rising uncertainty, financial volatility, and weakened confidence.\n2. By 2027, average global GDP growth in the 2020s is projected to be just 2.5%, the slowest for any decade since the 1960s.\n3. India’s growth forecast for Financial Year (FY) 2025–26 has been revised to 6.3%, due to weaker export and investment growth.",
+      "option_a": "1 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "A"
+    },
+    {
+      "question": "According to the Child Labour: Global estimates 2024, released by The International Labour Organization (ILO) and the United Nations Children’s Fund (UNICEF), Child labour continues to affect _________ (7.8%) children (aged 5 to 17 years) worldwide, with _____ (3.1%) of these engaged in hazardous work.",
+      "option_a": "510 million; 24 million",
+      "option_b": "210 million; 34 million",
+      "option_c": "170 million; 44 million",
+      "option_d": "137.8 million; 54 million",
+      "option_e": "720 million; 64 million",
+      "correct_option": "D"
+    },
+    {
+      "question": "Consider the following statements regarding the Global Peace Index 2025:\n1. The Global Peace Index 2025 was released by the Institute for Economics and Peace (IEP) and evaluates peace across three primary areas.\n2. Iceland has topped the index while India’s ranking in the index declined from 116th in 2024 to 115th in 2025, with a score of 2.229 showing an improvement of 0.58%.\n3. The 2025 index indicates that the average global peacefulness improved by 0.36% compared to the previous year.\nWhich of the above statements is/are incorrect?",
+      "option_a": "3 only",
+      "option_b": "1 and 2 only",
+      "option_c": "2 and 3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the following belong to the top-5 Universities as per the QS World University Rankings 2026?",
+      "option_a": "Massachusetts Institute of Technology (MIT) - United States",
+      "option_b": "Imperial College London - United Kingdom (UK)",
+      "option_c": "Stanford University - United States (US)",
+      "option_d": "University of Oxford – UK",
+      "option_e": "All of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to India-specific findings in the Human Development Report 2025 titled “A matter of choice: People and possibilities in the age of AI”, consider the following statements and identify incorrect statements:\n1. India's Human Development Index (HDI) value has witnessed a growth of over 53% since 1990, surpassing the average progress observed in both global and South Asian contexts.\n2. As per the report, 13.5 crore people in India escaped multidimensional poverty between 2015–16 and 2019–21, out of a total national population of 144 crore.\n3. India has been ranked highest in the world for the prevalence of self-reported Artificial Intelligence (AI) skills among its population.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following countries are ranked among the top five in the Human Development Report 2025 released by the United Nations Development Programme (UNDP)?",
+      "option_a": "Iceland has secured the 1st rank with an HDI value of 0.972, placing it at the top globally.",
+      "option_b": "Both Norway and Switzerland have been jointly ranked at the 2nd position in the global HDI rankings.",
+      "option_c": "Denmark and Germany have also been included in the top five positions, ranked 4th and 5th respectively.",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "D"
+    },
+    {
+      "question": "With reference to the Global Report on Food Crises (GRFC) 2025 released by the Food Security Information Network (FSIN), consider the following statements and identify incorrect statements:\n1. In 2024, approximately 295.3 million people, or 22.6% of the analysed population, faced high levels of acute food insecurity across 53 of the 65 assessed countries and territories.\n2. The year 2024 marked the sixth consecutive year where the share of people facing acute food insecurity exceeded 20%.\n3. The highest numbers of people facing acute food insecurity were reported from Nigeria, followed by Sudan and the Democratic Republic of the Congo.",
+      "option_a": "2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "A"
+    },
+    {
+      "question": "With reference to the World Press Freedom Index 2025 released by Reporters Without Borders, consider the following statements and identify incorrect statements:\n1. India ranked 151st in 2025 with a score of 32.96, showing an improvement from its 159th position in 2024.\n2. In 2025, the global average score for press freedom dropped to 54.7, placing the overall global situation in the 'difficult' category for the first time in the Index’s history.\n3. Among the top five countries, Norway leads the list with the highest score, followed by Estonia, Netherlands, Sweden, and Finland.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All of the above",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "According to the World Social Report 2025 titled “A New Policy Consensus to Accelerate Social Progress”, approximately how many people across the world are currently living in extreme poverty, defined as living on less than $2.15 per day?",
+      "option_a": "690 million",
+      "option_b": "610 million",
+      "option_c": "670 million",
+      "option_d": "590 million",
+      "option_e": "720 million",
+      "correct_option": "A"
+    },
+    {
+      "question": "The Reserve Bank of India has signed its renewed Statement of Commitment (SoC) to the FX Global Code (“Code”). It was developed by a partnership between central banks and market participants from around the globe and was first published in ______________.",
+      "option_a": "2015",
+      "option_b": "2016",
+      "option_c": "2017",
+      "option_d": "2018",
+      "option_e": "2019",
+      "correct_option": "C"
+    },
+    {
+      "question": "The Payments Regulatory Board has been constituted under Section 3 (2) of PSS Act, 2007 consisting of which of the following members?\n1. Governor\n2. Deputy Governor In-charge of the Payment and Settlement Systems\n3. Executive Director In-charge of the Payment and Settlement Systems\n4. Secretary, Ministry of Finance\n5. Secretary, Department of Financial Services\n6. Shaktikanta das, IAS retd",
+      "option_a": "1, 2, 3 and 4",
+      "option_b": "2, 3, 4 and 5",
+      "option_c": "1, 3, 4 and 6",
+      "option_d": "3, 4, 5 and 6",
+      "option_e": "1, 2, 3 and 5",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following statements is incorrect regarding the Payments Regulatory Board (PRB) as per the Payments Regulatory Board Regulations, 2025?",
+      "option_a": "The PRB will be chaired by the RBI Governor and will include 3 members nominated by the Central Government.",
+      "option_b": "Members nominated by the Central govt can not be above 70 years of age.",
+      "option_c": "Member of the Board nominated by Central Govt, unless he is a public servant as defined in Bharatiya Nyaya Sanhita, 2023, shall hold office for a period of four years and shall not be eligible for re-nomination.",
+      "option_d": "The Board shall ordinarily meet at least 4 times in a year at such place or through such mode as may be decided by the Chairperson from time to time.",
+      "option_e": "The quorum for holding a meeting of the Board shall be three Members and shall include the Chairperson and, in his absence, the Deputy Governor who is the Member of the Board and a Member nominated by Central Govt.",
+      "correct_option": "D"
+    },
+    {
+      "question": "The 32nd meeting of the Sub-Committee of the Financial Stability and Development Council (FSDC-SC) was held in Mumbai. Institutionally, the FSDC Sub-Committee is chaired by which office?",
+      "option_a": "Finance Secretary, Government of India",
+      "option_b": "Chief Economic Adviser (CEA)",
+      "option_c": "Chairperson, SEBI",
+      "option_d": "Governor, Reserve Bank of India",
+      "option_e": "Finance Minister",
+      "correct_option": "D"
+    },
+    {
+      "question": "Reserve Bank of India released the balance of payments (BoP) data for the first quarter (Q1), i.e., April-June of 2025-26. Foreign exchange reserves in nominal terms (i.e., including valuation effects) increased by US$ __________ billion during April-June 2025 as compared with an increase of US$ 5.6 billion in April-June 2024.",
+      "option_a": "29.8",
+      "option_b": "27.6",
+      "option_c": "25.9",
+      "option_d": "24.5",
+      "option_e": "23.1",
+      "correct_option": "A"
+    },
+    {
+      "question": "India’s current account balance recorded a deficit of ___________of GDP in Q1:2025-26 as compared with 0.9% of GDP in Q1:2024-25 and against a surplus of 1.3% of GDP in Q4:2024-25.",
+      "option_a": "0.6%",
+      "option_b": "0.5%",
+      "option_c": "0.4%",
+      "option_d": "0.3%",
+      "option_e": "0.2%",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the Reserve Bank’s 35th Conference of the State Finance Secretaries, the theme “Journey towards Economic Prosperity through the Path of Fiscal Consolidation” most appropriately aligns with which of the following policy stances for States?",
+      "option_a": "Front-loading broad-based tax cuts and generalized subsidies financed by higher deficits",
+      "option_b": "Prioritizing debt sustainability, improving quality of expenditure with a glide path of deficit reduction",
+      "option_c": "Delaying fiscal transparency to preserve policy flexibility during consolidation",
+      "option_d": "Curbing capital outlays to preserve all revenue spending in the short run",
+      "option_e": "Aggressively relaxing borrowing limits to counter cyclical slowdowns irrespective of deficit targets",
+      "correct_option": "B"
+    },
+    {
+      "question": "Regarding the Regulatory Review Mechanism introduced by the Reserve Bank, consider the following statements:\n1. A Regulatory Review Cell (RRC) will be housed in the Department of Regulation.\n2. The RRC becomes operational with effect from October 1, 2025.\n3. The newly formed Advisory Group on Regulation (AGR) is chaired by Shyam Srinivasan.\n4. The RRC’s mandate is a comprehensive internal review of all RBI regulations every 5 to 7 years.\nWhich of the above statements is\\are correct?",
+      "option_a": "1, 2 and 3 only",
+      "option_b": "1, 3 and 4 only",
+      "option_c": "2, 3 and 4 only",
+      "option_d": "2 and 4 only",
+      "option_e": "1, 2 and 4 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "Following the launch of the next generation datawarehouse of the RBI, i.e. Centralised Information Management System (CIMS), RBI has decided to commence the reporting of the Internet Banking Return and Mobile Banking Return in CIMS. As per the extant practice, the returns for every month should be submitted by the ____________ of the succeeding month.",
+      "option_a": "1st",
+      "option_b": "5th",
+      "option_c": "7th",
+      "option_d": "15th",
+      "option_e": "30th",
+      "correct_option": "C"
+    },
+    {
+      "question": "(Regulation of Payment Aggregators) Directions, 2025. Which of the following statements is incorrect in this regards?",
+      "option_a": "A bank does not require authorisation to carry out PA business.",
+      "option_b": "If a non-bank entity is regulated by any financial sector regulator, it must get a No Objection Certificate (NOC) from that regulator and then apply for authorisation within 45 days of receiving the NOC.",
+      "option_c": "An entity, whose application for grant of CoA for PA-O or PA – CB is under consideration of RBI – shall intimate the Reserve Bank about its existing PA-P business, if any, through the online portal, by December 31, 2025.",
+      "option_d": "An entity seeking authorisation to commence or carry on PA business shall have a minimum net-worth of ₹20 crore at the time of tendering application for authorisation; and shall attain a minimum net-worth of ₹25 crore by the end of third financial year of grant of authorisation.",
+      "option_e": "“Net Worth” shall also include Compulsorily convertible preference shares. Additionally, if Deferred Tax Assets have been included in any of the components, the same shall be deducted while arriving at the net-worth value.",
+      "correct_option": "D"
+    },
+    {
+      "question": "As per the Master Direction on Regulation of Payment Aggregator (PA), A PA-CB shall not purchase foreign currency from, or sell it to, any entity other than an Authorised Dealer (AD). In respect of inward or outward transactions processed by a PA - CB, the maximum value per transaction shall be ₹__________ lakh.",
+      "option_a": "5",
+      "option_b": "10",
+      "option_c": "15",
+      "option_d": "20",
+      "option_e": "25",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following statements is\\are correct in this regards?\n1. Pre-funding is allowed in Escrow Account (Domestic), but it is not allowed in Inward Collection Account (InCA) and Outward Collection Account (InCA).\n2. The core portion of escrow account shall be permissible to entities who have been in business for twenty-nine (29) fortnights and whose accounts have been duly audited for the full accounting year.\n3. Payment to any other account (third party), on specific direction of a merchant, having physical or online presence with an annual turnover above ₹50 lakh or an annual export turnover of more than ₹5 lakh, provided the third party is the payee that interfaces with the payer for purchase / delivery of goods, services or investment products, for the underlying transaction.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "D"
+    },
+    {
+      "question": "Under the Reserve Bank of India (Authentication Mechanisms for Digital Payment Transactions) Directions, 2025, which of the following statements is correct?",
+      "option_a": "All digital payment transactions in India must be authenticated using exactly three factors of authentication, with at least one factor being biometric.",
+      "option_b": "Issuers are prohibited from using SMS-based OTP as a factor of authentication under these directions.",
+      "option_c": "At least two factor of authentication for digital payment transactions, other than card-present transactions, must be dynamically created or proven.",
+      "option_d": "Card issuers shall, by October 01, 2026, put in place a mechanism to validate non-recurring, cross-border card not present transactions, where request for authentication is raised by an overseas merchant\\acquirer.",
+      "option_e": "Issuers are not responsible for compensating customers in case of transaction loss due to non-compliance with these directions.",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements correctly describes the new Auto-bidding facility introduced in the RBI's Retail Direct portal?",
+      "option_a": "It allows investors to purchase only long-term Government Securities in the secondary market.",
+      "option_b": "It permits automatic bidding in T-bill auctions, with investment and re-investment options.",
+      "option_c": "It restricts retail investors from participating in primary auctions of T-bills.",
+      "option_d": "The auto-bidding facility is available only for corporate investors with large portfolios.",
+      "option_e": "Investors can now place T-bill bids in any amount starting from Rs 1,000.",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the above statements is correct regarding the eligibility and conditions for a Small Finance Bank (SFB) to transition into a Universal Bank?",
+      "option_a": "An SFB must have a minimum net worth of ₹100 crore as at the end of the previous audited quarter.",
+      "option_b": "There is mandatory requirement for an eligible SFB to have an identified promoter while transitioning.",
+      "option_c": "The SFB to have scheduled status with a satisfactory track record of performance for a minimum period of five years.",
+      "option_d": "The SFB to have GNPA and NNPA of less than or equal to 2% and 1% respectively in the last 2-financial years.",
+      "option_e": "The SFB to have a net profit in the last three financial years.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Recently, the Reserve Bank of India approved the amalgamation of which co-operative bank with Saraswat Co-operative Bank Ltd., Mumbai?",
+      "option_a": "Abhyudaya Co-operative Bank Ltd.",
+      "option_b": "New India Co-operative Bank Ltd.",
+      "option_c": "Cosmos Co-operative Bank Ltd.",
+      "option_d": "Bharat Co-operative Bank Ltd.",
+      "option_e": "Punjab & Maharashtra Co-operative Bank Ltd.",
+      "correct_option": "B"
+    },
+    {
+      "question": "Under the 5th cohort, Products of the entities which completed the ‘Test Phase’ were evaluated based on mutually agreed test scenarios and expected outcomes. Accordingly, one product was found viable within the boundary conditions defined during testing under RS. Which of the following statements is\\are incorrect in this regards?\n1. The Fifth Cohort of the RS which was ‘Theme Neutral’.\n2. Indian Banks’ Digital Infrastructure Company (IBDIC) Pvt. Ltd. – blockchain-based deep-tier financing solution enabling MSMEs to access affordable finance has been found viable and has successfully exited the cohort\n3. Partner Financial Institutions are IDFC First Bank, IndusInd Bank, State Bank of India and Policybazaar Fintech.",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "1 and 3",
+      "option_e": "1 and 2",
+      "correct_option": "C"
+    },
+    {
+      "question": "With reference to the newly issued RBI (Co-Lending Arrangements) Directions, 2025, Which of the following statements is/are correct?\n1. Each regulated entity (RE) must retain at least 10% of every loan under a CLA in its own books.\n2. Originating REs may provide Default Loss Guarantee (DLG) up to 10% of loans outstanding under CLA, subject to compliance with Digital Lending Directions.\n3. Loan shares of each partner RE must be reflected in their books of account within 15 calendar days of disbursement.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "RBI has decided to transition CTS to continuous clearing and settlement on realisation in two phases. Phase 1 shall be implemented on October 4, 2025 and Phase 2 on January 3, 2026. There shall be a single presentation session from 10:00 AM to _____________. The confirmation session shall start at 10:00 AM and close at _____________________.",
+      "option_a": "12:00 PM, 3:00 PM",
+      "option_b": "1:00 PM, 4:00 PM",
+      "option_c": "2:00 PM, 5:00 PM",
+      "option_d": "4:00 PM, 7:00 PM",
+      "option_e": "6:00 PM, 9:00 PM",
+      "correct_option": "D"
+    },
+    {
+      "question": "RBI has decided to transition CTS to continuous clearing and settlement on realisation in two phases. Phase 1 shall be implemented on October 4, 2025 and Phase 2 on January 3, 2026. In Phase 2 (from January 3, 2026), the item expiry time of cheques shall be changed to ____________ clear hours.",
+      "option_a": "T+1",
+      "option_b": "T+2",
+      "option_c": "T+3",
+      "option_d": "T+4",
+      "option_e": "T+5",
+      "correct_option": "C"
+    },
+    {
+      "question": "Reserve Bank released its web publication entitled 'Quarterly Basic Statistical Return (BSR)-1 on Credit by Scheduled Commercial Banks (SCBs)- June 2025' on its ‘Database on Indian Economy’ portal. Which of the following statements is\\are incorrect?\n1. Bank credit growth (y-o-y) decelerated to 9.9% in June 2025 from 15.0% (net of merger) in June 2024.\n2. In line with monetary policy actions, the weighted average lending rate (WALR) on outstanding credit declined by 59 bps during April–June 2025, with reductions observed across all major sectors.\n3. Public sector banks recorded higher credit growth (y-o-y) than private sector banks and foreign banks in June 2025, sustaining their leading position of 53.7% in total credit.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "Reserve Bank released the web publication ‘Quarterly Basic Statistical Return (BSR)-2 on Deposits with Scheduled Commercial Banks – June 2025’ on its ‘Database on Indian Economy’ portal. Bank deposits with SCB’s registered a growth (y-o-y) of ___________________% as at end-June 2025 as compared with that of 11.7% (net of merger) a year ago.",
+      "option_a": "10.2",
+      "option_b": "10.7",
+      "option_c": "11.1",
+      "option_d": "11.3",
+      "option_e": "12.2",
+      "correct_option": "D"
+    },
+    {
+      "question": "A RE shall put in place suitable internal aggregate/ individual ceilings for issuance of guarantees in general and unsecured guarantees in particular. Provided that the total volume of guaranteed obligations of UCBs, RRBs, LABs, StCBs and CCBs outstanding at any time shall not exceed ______________ of their total assets as per the previous financial year’s balance sheet. Further, unsecured guarantees of these REs shall be restricted to ____________of total assets. Any such RE in breach of the above stipulation as on the date of issue of these Directions shall meet the above threshold by April 01, 2027.",
+      "option_a": "2%, 0.5%",
+      "option_b": "5%, 1.25%",
+      "option_c": "7%, 2.5%",
+      "option_d": "10%, 5.25%",
+      "option_e": "15%, 2.25%",
+      "correct_option": "B"
+    },
+    {
+      "question": "As per the Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025, Which of the following statements is incorrect in regards to the Partial Credit Enhancement?",
+      "option_a": "Scheduled Commercial Banks (SCBs) (excluding RRBs), All India Financial Institutions (AIFIs) and NBFCs (Middle Layer and above) including Housing Finance Companies (HFCs) are the entities allowed to provide Partial Credit Enhancement (PCE).",
+      "option_b": "The PCE exposure limit by a single RE shall be 50 per cent of the bond issue size.",
+      "option_c": "The aggregate exposure limit of all REs towards the PCE for a given bond issue has also been capped at 50 per cent of the bond issue size.",
+      "option_d": "REs may offer PCE only in respect of bonds whose pre-enhanced rating are not lower than “BBB” minus as issued by accredited External Credit Assessment Institutions (ECAI).",
+      "option_e": "Since PCE is drawn only when a project faces cash flow shortfall (distress signal): Drawn PCE must be repaid within 15 days and If unpaid for 90 days or more from due date, it becomes NPA.",
+      "correct_option": "E"
+    },
+    {
+      "question": "As per the Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025, PCE exposure by a RE to a single counterparty or group of counterparties shall be within the overall regulatory exposure limits applicable to each category of RE. The aggregate PCE exposure of a RE shall not exceed _____________ per cent of its Tier 1 capital. The tenor of the bond issued by NBFCs/ HFCs for which PCE is provided shall not be less than _________ years.",
+      "option_a": "2%, 5",
+      "option_b": "5%, 10",
+      "option_c": "10%, 15",
+      "option_d": "15%, 5",
+      "option_e": "20%, 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following is among the parameters covered under the Rural Consumer Confidence Survey (RCCS) conducted by the RBI?",
+      "option_a": "Stock market performance",
+      "option_b": "Interest rate expectations",
+      "option_c": "Overall price situation",
+      "option_d": "Foreign exchange reserves",
+      "option_e": "Bank credit growth",
+      "correct_option": "C"
+    },
+    {
+      "question": "The Reserve Bank of India has been regularly conducting Inflation Expectations Survey of Households (IESH). The survey aims at capturing subjective assessments on price movements and inflation, based on their individual consumption baskets, across 19 cities. Which of the following cities is not among the 19 cities covered under the Inflation Expectations Survey of Households (IESH) conducted by the RBI?",
+      "option_a": "Raipur",
+      "option_b": "Ranchi",
+      "option_c": "Surat",
+      "option_d": "Thiruvananthapuram",
+      "option_e": "Bhopal",
+      "correct_option": "C"
+    },
+    {
+      "question": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS) every two months. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in _______ cities.",
+      "option_a": "10",
+      "option_b": "15",
+      "option_c": "17",
+      "option_d": "19",
+      "option_e": "21",
+      "correct_option": "D"
+    },
+    {
+      "question": "According to the Reserve Bank of India (Know Your Customer (KYC)) (2nd Amendment) Directions, 2025, for verifying the identity of customers at the time of account opening or while carrying out occasional transactions, what is the minimum transaction amount (single or multiple connected transactions) at or above which regulated entities (REs) may rely on customer due diligence done by a third party?",
+      "option_a": "10,000",
+      "option_b": "50,000",
+      "option_c": "75,000",
+      "option_d": "1,00,000",
+      "option_e": "1,50,000",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statements is\\are correct regarding the RBI's Committee on Framework for Responsible and Ethical Enablement of Artificial Intelligence (FREE-AI) in the financial sector?\n1. The FREE-AI Committee was chaired by Dr. Pushpak Bhattacharyya and submitted 7 key Sutras.\n2. The Committee focused solely on risk mitigation and recommended 26 compliance measures for NBFCs.\n3. The FREE-AI Committee identified 6 strategic pillars, including Infrastructure, Policy, Capacity, Governance, Protection, and Assurance.",
+      "option_a": "1 and 2",
+      "option_b": "1 and 3",
+      "option_c": "2 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "Reserve Bank released the results of the 2024-25 round of the survey of Foreign Liabilities and Assets of the Mutual Funds (MFs). It covered 45 Indian MFs and their Asset Management Companies (AMCs), which held/acquired foreign assets/ liabilities during 2024-25 and/or in the preceding years. Which of the following statements is\\are correct?\n1. Foreign liabilities of MFs increased by 19.9% during 2024-25 due to the rise in units issued to non-residents.\n2. Non-residents of United Arab Emirates (UAE), the United States of America (USA), the United Kingdom (UK) and Germany held the largest share in MF units, both in terms of face value as well as at market value.\n3. Over 95% of the overseas equity investment of the MFs were concentrated in the USA, Luxembourg, and Canada.",
+      "option_a": "1 and 2",
+      "option_b": "1 and 3",
+      "option_c": "2 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "D"
+    },
+    {
+      "question": "RBI has released Discussion Paper on Review of Monetary Policy Framework. In May 2016, the Reserve Bank of India Act, 1934 was amended to provide a statutory basis for the implementation of the flexible inflation targeting (FIT) framework in India. The Act mandated the Reserve Bank to maintain a consumer price index (CPI) inflation target of _________ with the Government notifying a tolerance band of +/- 2 per cent around it for the period 2016-2021.",
+      "option_a": "6%",
+      "option_b": "2%",
+      "option_c": "8%",
+      "option_d": "3%",
+      "option_e": "4%",
+      "correct_option": "E"
+    },
+    {
+      "question": "RBI has been publishing a composite Reserve Bank of India – Digital Payments Index (RBI-DPI) since January 1, 2021 to capture the extent of digitisation of payments across the country. Which of the following statements is\\are incorrect in regards to the RBI – DPI?\n1. The RBI-DPI has been constructed with March 2019 as the base period, i.e. DPI score for March 2019 is set at 100.\n2. DPI for March 2025 stands at 483.22 as against 465.33 for September 2024, and 445.50 in March 2024.\n3. The increase in RBI-DPI index was driven by significant growth in parameters viz. Payment Infrastructure – Supply-side factors and Payment Performance across the country over the period.",
+      "option_a": "2 only",
+      "option_b": "3 only",
+      "option_c": "1 and 2",
+      "option_d": "1 and 3",
+      "option_e": "2 and 3",
+      "correct_option": "C"
+    },
+    {
+      "question": "An SFB was required to extend 75% of its Adjusted Net Bank Credit (ANBC) to the sectors eligible for classification as priority sector lending (PSL) by the Reserve Bank. From FY 2025–26, the overall PSL obligation for SFBs is revised to:",
+      "option_a": "50% of ANBC/CEOBE",
+      "option_b": "55% of ANBC/CEOBE",
+      "option_c": "60% of ANBC/CEOBE",
+      "option_d": "65% of ANBC/CEOBE",
+      "option_e": "40% of ANBC /CEOBE",
+      "correct_option": "C"
+    },
+    {
+      "question": "Due Diligence of AePS Touchpoint Operators (ATOs) directions have been released to protect bank customers from frauds, and to maintain trust and confidence in the safety and security of the system, a need is felt to enhance the robustness of AePS. Under the inactivity protocol, a fresh KYC of the ATO is required before re-enabling transactions if the ATO has been inactive for:",
+      "option_a": "1 year",
+      "option_b": "9 months",
+      "option_c": "6 months",
+      "option_d": "3 months",
+      "option_e": "1 month",
+      "correct_option": "D"
+    },
+    {
+      "question": "Reserve Bank released data relating to India’s International Investment Position for end-March 2025. Over ______________ of the rise in India’s overseas financial assets was due to increase in overseas direct investment, currency & deposits, and reserve assets.",
+      "option_a": "80%",
+      "option_b": "75%",
+      "option_c": "72%",
+      "option_d": "68%",
+      "option_e": "63%",
+      "correct_option": "C"
+    },
+    {
+      "question": "The Reserve Bank of India has expanded the list of recognised External Credit Assessment Institutions (ECAIs) under Basel III norms. Banks can now use ratings issued by __________ for risk-weighting their claims on non-resident corporates originating at the International Financial Services Centre (IFSC).",
+      "option_a": "India Ratings & Research IFSC Ltd.",
+      "option_b": "Moody’s Analytics IFSC Services",
+      "option_c": "CareEdge Global IFSC Limited",
+      "option_d": "S&P Global IFSC Ratings",
+      "option_e": "CRISIL IFSC Ratings Pvt. Ltd.",
+      "correct_option": "C"
+    },
+    {
+      "question": "RBI has released Reserve Bank of India (Pre-payment Charges on Loans) Directions, 2025 which shall be applicable to all loans and advances sanctioned or renewed on or after January 1, 2026. Which of the following statements is\\are incorrect in regards to the directions?\n1. For all fixed rate loans granted for purposes other than business to individuals, with or without co-obligant(s), an RE shall not levy pre-payment charges.\n2. A Small Finance bank, a Regional Rural bank, a Tier 3 Primary (Urban) Co-operative bank, State Cooperative bank, Central Cooperative bank and an NBFC-ML shall not levy any pre-payment charges on floating rate loans with sanctioned amount/ limit up to ₹50 lakh granted for business purpose to individuals and MSEs, with or without co-obligant(s).\n3. A commercial bank (excluding Small Finance bank, Regional Rural bank and Local Area bank), a Tier 4 Primary (Urban) Co-operative bank, an NBFC-UL, and an All India Financial Institution shall not levy any pre-payment charges on floating rate loans with sanctioned amount/ limit up to ₹1 crore granted for business purpose to individuals and MSEs, with or without co-obligant(s).",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "The Reserve Bank of India (RBI) has issued the Master Direction – Reserve Bank of India (Electronic Trading Platforms) Directions, 2025. An entity seeking authorisation as an ETP operator to commence or carry on ETP operations shall fulfil various criteria. Which of the following statements is not correct in regards to the criteria?\n1. The entity shall be a company incorporated in India.\n2. An entity seeking authorisation as an ETP operator under these Directions shall have a minimum net-worth of ₹10 crore (Rupees ten crore only) and shall continue to maintain this.\n3. The entity seeking authorisation as an ETP operator or a minimum of two of its key managerial personnel shall have experience of at least three years in operating trading infrastructure in financial markets.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "E"
+    },
+    {
+      "question": "“Project Finance refers to the method of funding a project in which the revenues to be generated by the funded project serve as the primary security for the loan, and also as a source of repayment. Project finance may take the form of financing the construction of a new capital installation (greenfield), or financing an improvement/enhancement in the existing installation (brownfield). For the purpose of these Directions, an exposure shall qualify as a project finance exposure only if atleast ________________of repayment as envisaged at the time of financial closure must be from cash flows arising from the project which is being financed. All the lenders have a common agreement with the debtor.",
+      "option_a": "49%",
+      "option_b": "35%",
+      "option_c": "51%",
+      "option_d": "85%",
+      "option_e": "75%",
+      "correct_option": "C"
+    },
+    {
+      "question": "Under Reserve Bank of India (Project Finance) Directions, 2025, In under-construction projects where the aggregate exposure of the lenders is up to ₹1,500 crores, no individual lender shall have an exposure which is less than _______________% of the aggregate exposure. For projects where aggregate exposure of all lenders is more than ₹1,500 crores, the exposure floor for an individual lender shall be ______________% or ₹150 crores, whichever is higher.",
+      "option_a": "20, 15",
+      "option_b": "15, 10",
+      "option_c": "10, 5",
+      "option_d": "5, 2",
+      "option_e": "2, 1",
+      "correct_option": "C"
+    },
+    {
+      "question": "Under Reserve Bank of India (Project Finance) Directions, 2025, A project finance account classified as standard and that satisfies all relevant prudential conditions specified in the regulations, where a resolution plan involving extension of original/ extended DCCO, as the case maybe, is implemented, shall continue to be classified as ‘Standard’, provided the envisaged resolution plan ab initio conforms to the conditions stipulated hereunder.\n1. The maximum permissible DCCO deferment is 3 years for infrastructure projects and 1 year for non-infrastructure projects.\n2. Cost overrun up to a maximum of 10% of the original project cost, in addition to IDC.\n3. The rise in project cost excluding any cost-overrun in respect of the original project is 25% or more of the original outlay as the case may be for change in scope or size.\nWhich of the above statements is\\are correct in regards to the conditions?",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "The Reserve Bank's FI-Index, which captures extent of financial inclusion in the country, rose 4.3% during the year ending March 2025. The RBI had constructed a composite FI-Index in consultation with the concerned stakeholders including the Govt, to capture the extent of financial inclusion across the country, which was first published in August 2021 for the FY ending March 2021. Index for the year ending March 2025 has since been compiled. The value of FI-Index for March 2025 stands at __________ vis-à-vis 64.2 in March 2024.",
+      "option_a": "65.7",
+      "option_b": "66.2",
+      "option_c": "67.0",
+      "option_d": "68.1",
+      "option_e": "69.5",
+      "correct_option": "C"
+    },
+    {
+      "question": "The Reserve Bank's FI-Index, which captures extent of financial inclusion in the country, rose 4.3% during the year ending March 2025. Which of the following statements is incorrect in regards to the FI-Index?",
+      "option_a": "The Index is responsive to ease of access, availability and usage of services, and quality of services, comprising in all 97 indicators.",
+      "option_b": "The FI-Index has been constructed without any ‘base year’ and as such it reflects cumulative efforts of all stakeholders over the years towards financial inclusion.",
+      "option_c": "The index captures information on various aspects of financial inclusion in a single value ranging between 0 and 100.",
+      "option_d": "Improvement in FI-Index in FY 2025 is contributed by Usage and Quality dimensions, reflecting deepening of financial inclusion, and sustained financial literacy initiatives.",
+      "option_e": "A unique feature of the Index is the Quality parameter with 25% weight which captures the quality aspect of financial inclusion as reflected by financial literacy, consumer protection, and inequalities and deficiencies in services.",
+      "correct_option": "E"
+    },
+    {
+      "question": "Recognising the need to enhance consumer protection and service delivery, the Reserve Bank has introduced amendments to the RBI (Know Your Customer (KYC)) Directions, 2016 Master Direction. Which of the following statements is\\are correct in this regards?\n1. For low-risk individual customers, REs shall continue to allow all transactions even if the KYC is due, provided KYC is updated within 1 year from the due date, or by June 30, 2026, whichever is later.\n2. Banks may obtain a self-declaration from customers (in case of no change in KYC info or only address change) through an authorised BC.\n3. Banks must update the KYC in their system and inform the customer post-updation. Final responsibility for KYC updation remains with the BC.",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "1 and 2",
+      "option_e": "1 and 3",
+      "correct_option": "D"
+    },
+    {
+      "question": "RBI has recently released Reserve Bank of India (Investment in AIF) Directions, 2025 which shall come into force from January 1, 2026. If a RE contributes more than ___________ per cent of the corpus of an AIF Scheme, which also has downstream investment (excluding equity instruments) in a debtor company of the RE, then the RE shall be required to make ______________ per cent provision to the extent of its proportionate investment in the debtor company through the AIF Scheme, subject to a maximum of the direct loan and/ or investment exposure of the RE to the debtor company.",
+      "option_a": "10, 50",
+      "option_b": "20, 100",
+      "option_c": "50, 150",
+      "option_d": "15, 50",
+      "option_e": "5, 100",
+      "correct_option": "E"
+    },
+    {
+      "question": "The definition of ‘qualifying assets’ of NBFC-MFIs has been aligned with the definition of ‘microfinance loans’. Under RBI’s framework, _________________ is the maximum annual household income for a household to be eligible for a microfinance loan. Qualifying assets of NBFC-MFIs shall constitute a minimum of _________ percent of the total assets (netted off by intangible assets), on an ongoing basis.",
+      "option_a": "1 lakh, 80",
+      "option_b": "2 lakh, 75",
+      "option_c": "2.5 lakh, 70",
+      "option_d": "3 lakh, 60",
+      "option_e": "5 lakh, 45",
+      "correct_option": "D"
+    },
+    {
+      "question": "In February 2025, Reserve Bank of India (RBI) constituted a 9-member Working Group on Comprehensive Review of Trading and Settlement Timings for various financial markets under its regulation. This Working Group was chaired by Radha Shyam Ratho. The Reserve Bank has examined the recommendations of the Committee as well as the feedback received and it has been decided to implement certain recommendations. Which of the following statements is\\are incorrect in regards to the accepted recommendations?\n1. The market timings for call money shall be extended to 7:00 PM with effect from July 01, 2025. Accordingly, the revised market hours shall be from 9:00 AM to 7:00 PM.\n2. The trading hours of market repo and Tri-Party Repo (TREP) shall be extended to 7:00 PM with effect from August 01, 2025. Accordingly, the revised trading hours shall be from 9:00 AM to 7:00 PM.\n3. The trading hours for Government securities market, foreign exchange market and interest rate derivatives market changed 9:00 AM to 5:00 PM with effect from July 01, 2025.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "RBI has decided to officially introduce Separate Trading of Registered Interest and Principal of Securities (STRIPS) facility in the domain of State Government Securities (SGS). Which of the following requirements is\\are correct in regards to the Eligible Securities in regards to the Stripping/Reconstitution in State Government Securities?\n1. fixed coupon securities having a residual maturity of up to 15 years\n2. minimum outstanding of ₹1,000 crore as on the day of stripping\n3. securities are reckoned as eligible investment for the purpose of meeting Statutory Liquidity Ratio (SLR) requirements and are transferable.",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "1 and 2",
+      "option_e": "2 and 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "As per agency bank agreement, RBI pays agency commission at rates determined by it. As per the revised agency commission rates effective from April 1, 2025, What is the revised agency commission rate for “Payments other than Pension” transactions handled by agency banks?",
+      "option_a": "₹80/-",
+      "option_b": "₹40/-",
+      "option_c": "₹12/-",
+      "option_d": "7 paise per ₹100",
+      "option_e": "₹9/-",
+      "correct_option": "D"
+    },
+    {
+      "question": "RBI has released Reserve Bank of India (Lending Against Gold and Silver Collateral) Directions, 2025. Which of the following statements is\\are incorrect?",
+      "option_a": "The aggregate weight of ornaments pledged for all loans to a borrower shall not exceed 1 kilogram for gold ornaments, and 100 kilograms for silver ornaments.",
+      "option_b": "The aggregate weight of coin(s) pledged for all loans to a borrower shall not exceed 50 grams in case of gold coins, and 500 grams in case of silver coins.",
+      "option_c": "Tenor of consumption loans in the nature of bullet repayment loans shall be capped at 12 months, which may be renewed.",
+      "option_d": "The maximum LTV ratio in respect of consumption loans against the eligible collateral shall not exceed 85% for total consumption loan amount of Up to ₹2.5 lakh.",
+      "option_e": "In case of delay in release of the pledged collateral after full repayment or settlement of loan by the borrower, where reasons for delay are attributable to the lender, the lender shall compensate the borrower(s)/ legal heir(s) at the rate of ₹5,000 for each day of delay beyond the timeline prescribed.",
+      "correct_option": "A"
+    },
+    {
+      "question": "The Reserve Bank had issued the Framework for Recognition of Self-Regulatory Organisations in Financial Markets regulated by the Reserve Bank and invited applications for recognition as Self-Regulatory Organisation (SRO) in financial markets. Which of the following organisations has been recognised by the Reserve Bank of India as a Self-Regulatory Organisation (SRO) in financial markets regulated by it?",
+      "option_a": "Clearing Corporation of India Limited (CCIL)",
+      "option_b": "National Stock Exchange (NSE)",
+      "option_c": "Foreign Exchange Dealers’ Association of India (FEDAI)",
+      "option_d": "Fixed Income Money Market and Derivatives Association of India (FIMMDA)",
+      "option_e": "Association of Mutual Funds in India (AMFI)",
+      "correct_option": "D"
+    },
+    {
+      "question": "The Framework for recognition of SROs in financial markets regulated by the Reserve Bank (hereinafter “the Framework”) is based on the Omnibus Framework for recognising SROs for Regulated Entities, issued by the Reserve Bank on March 21, 2024, with necessary amendments to reflect the specificities and characteristics of SROs for financial markets. As per the framework, The applicant must have minimum net- worth of INR ________________and should possess or have the ability to create infrastructure to enable it to discharge responsibilities of an SRO on a continuing basis.",
+      "option_a": "1 crore",
+      "option_b": "2 crores",
+      "option_c": "5 crores",
+      "option_d": "10 crores",
+      "option_e": "15 crores",
+      "correct_option": "D"
+    },
+    {
+      "question": "RBI has released Reserve Bank of India (Digital Lending) Directions, 2025. As per the directions, the borrower shall be given an explicit option to exit a digital loan by paying the principal and the proportionate APR without any penalty during an initial “coolingoff period”. The cooling off period shall be determined by the Board of the RE as laid down in their loan policy, subject to the period so determined not being less than ____________.",
+      "option_a": "30 days",
+      "option_b": "15 days",
+      "option_c": "10 days",
+      "option_d": "7 days",
+      "option_e": "1 day",
+      "correct_option": "E"
+    },
+    {
+      "question": "RE may enter into DLG arrangements only with a LSP/ other RE engaged as a LSP. Further, the LSP providing DLG shall be incorporated as a company under the Companies Act, 2013. Which of the following statements is\\are incorrect in regards to the DLG?\n1. RE shall ensure that the total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed ten per cent of the total amount disbursed out of that loan portfolio at any given time.\n2. RE shall invoke DLG within a maximum overdue period of 120 days, unless the loan dues are made good by the borrower before that.\n3. RE shall accept DLG only in the form of Cash deposited with the RE; Fixed Deposit maintained with a Scheduled Commercial Bank with a lien marked in favour of the RE; or Bank Guarantee in favour of the RE.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "D"
+    },
+    {
+      "question": "The 616th meeting of the Central Board of Directors of Reserve Bank of India was held in Mumbai under the Chairmanship of Sanjay Malhotra, Governor. The Board discussed the working of the Reserve Bank during the year April 2024 – March 2025 and approved the Reserve Bank’s Annual Report and Financial Statements for the year 2024-25. The transferable surplus for the year (2024-25) has been arrived at on the basis of the revised Economic Capital Framework (ECF). Based on the revised ECF, and taking into consideration the macroeconomic assessment, the Central Board decided to increase the CRB to _______________ percent for 2024-25.",
+      "option_a": "9.0%",
+      "option_b": "7.5%",
+      "option_c": "6.0%",
+      "option_d": "5.0%",
+      "option_e": "6.5%",
+      "correct_option": "B"
+    },
+    {
+      "question": "Reserve Bank of India has issued revised ECF that provides requisite flexibility year-on-year to the Central Board in the maintenance of risk buffers, considering the prevailing macroeconomic and other factors, while also ensuring needed inter-temporal smoothening of the surplus transfer to the Government. Which of the following statements is\\are incorrect in regard to the Revised ECF?\n1. Central Board would have the flexibility to maintain market risk buffers at any resilience level within the range of Expected Shortfall (ES) at 99.5% Confidence Level (CL) and ES at 98.5% CL, and to maintain risk provisions for shortfall in revaluation balances, accordingly, based on its assessment of expected market risk factors.\n2. The range for buffers for Monetary and Financial Stability risks has been widened to 4.0 ± 1.5% of balance sheet (B/S) size.\n3. The Contingent Risk Buffer, which includes buffers for Monetary and Financial Stability risk, Credit risk and Operational risk, would be maintained in the range of 6.0 ± 1.5% of B/S size.",
+      "option_a": "1 and 2",
+      "option_b": "1 and 3",
+      "option_c": "2 and 3",
+      "option_d": "1 only",
+      "option_e": "2 only",
+      "correct_option": "A"
+    },
+    {
+      "question": "Framework for Formulation of Regulations lays down the broad principles for formulation and amendment of Regulations by the Reserve Bank of India. The Framework seeks to standardize the process of making Regulations in a transparent and consultative manner after conducting impact analysis, as may be feasible. As per the framework, RBI shall provide at least _____________ days to the stakeholders and members of public to submit their comments.",
+      "option_a": "7",
+      "option_b": "10",
+      "option_c": "15",
+      "option_d": "21",
+      "option_e": "30",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following is the title of the five-part documentary series launched by the Reserve Bank of India in collaboration with JioHotstar to visually document its 90-year journey and functions?",
+      "option_a": "RBI@90: Guardians of the Economy",
+      "option_b": "Inside the RBI: The Central Force",
+      "option_c": "India’s Financial Pulse",
+      "option_d": "RBI Unlocked: Beyond the Rupee",
+      "option_e": "The Reserve Report: RBI Chronicles",
+      "correct_option": "D"
+    },
+    {
+      "question": "As per the extant instructions outlined in “Inoperative Accounts /Unclaimed Deposits in Banks” Any deposit account in banks that has not been operated upon for a period of _______________, or any amount that remains unclaimed for ____________________, must be transferred to the Depositor Education and Awareness (DEA) Fund maintained by the Reserve Bank of India (RBI).",
+      "option_a": "25 years or more",
+      "option_b": "20 years or more",
+      "option_c": "15 years or more",
+      "option_d": "10 years or more",
+      "option_e": "5 years or more",
+      "correct_option": "D"
+    },
+    {
+      "question": "At end-March 2025, India’s external debt was placed at US$ 736.3 billion, an increase of US$ 67.5 billion over its level at end-March 2024. The external debt to GDP ratio increased to ______________% at end-March 2025 from 18.5% at end-March 2024.",
+      "option_a": "20.0%",
+      "option_b": "19.9%",
+      "option_c": "19.5%",
+      "option_d": "19.1%",
+      "option_e": "22.8%",
+      "correct_option": "D"
+    },
+    {
+      "question": "As per 44th Half yearly Report on Management of FERs: October 2024- March 2025, As at end-March 2025, a portion of the Reserve Bank of India's gold reserves was held in safe custody overseas. Which of the following institutions were entrusted with this responsibility?",
+      "option_a": "European Central Bank and International Monetary Fund",
+      "option_b": "Federal Reserve Bank of New York and World Bank",
+      "option_c": "Asian Infrastructure Investment Bank and International Bank for Reconstruction and Development",
+      "option_d": "Bank of England and Bank for International Settlements",
+      "option_e": "Swiss National Bank and New Development Bank",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following is not one of the 7 Sutras guiding AI adoption in the financial sector?",
+      "option_a": "Trust is the Foundation",
+      "option_b": "People First",
+      "option_c": "Innovation over Restraint",
+      "option_d": "Profit Maximization",
+      "option_e": "Safety, Resilience and Sustainability",
+      "correct_option": "?"
+    },
+    {
+      "question": "_________ rolled out a special personal loan scheme for Agniveers?",
+      "option_a": "State Bank of India",
+      "option_b": "Punjab National Bank",
+      "option_c": "Bank of Maharashtra",
+      "option_d": "HDFC",
+      "option_e": "Axis Bank",
+      "correct_option": "A"
+    },
+    {
+      "question": "Consider the following statements about the Unified Pension Scheme (UPS):\n1. Employees contribute 10% of Basic Pay + DA.\n2. Employees can exercise investment choice for pooled corpus.\n3. The Central Government contributes an additional 8.5% into a pooled corpus.\nWhich of the statements are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "2 only",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statements about the Unified Pension Scheme (UPS) approved by the Union Cabinet is/are correct?\n1. The scheme guarantees a pension of 50% of the average basic pay for the last 12 months before superannuation, with a minimum qualifying service of 25 years.\n2. The assured family pension under UPS is set at 60% of the employee's pension before their demise.\n3. The scheme offers a lump sum payment at superannuation equal to 1/10th of monthly emoluments (pay + DA) for every completed six months of service, in addition to gratuity, without reducing the assured pension amount.\n4. Dearness Relief under UPS is based on the Wholesale Price Index (WPI) for Industrial Workers.",
+      "option_a": "Only 2 and 3",
+      "option_b": "Only 2 and 4",
+      "option_c": "Only 1, 2 and 3",
+      "option_d": "All statements are correct",
+      "option_e": "Only 1, 2, and 4",
+      "correct_option": "C"
+    },
+    {
+      "question": "With reference to the Pradhan Mantri Matsya Sampada Yojana (PMMSY), consider the following statements:\n1. One of the key objectives of the scheme is to modernize and strengthen the fisheries value chain.\n2. Under the Group Accidental Insurance Scheme (GAIS), eligible fishers between 18 to 70 years are provided ₹5 lakh in case of death or permanent total disability without any beneficiary contribution.\n3. Subsidy support under the scheme is 40% for general category and 70% for SC/ST/Women beneficiaries.\n4. KCC was extended to cover the working capital needs of fisheries and animal husbandry in 2018-19.\nWhich of the above statements is/are correct?",
+      "option_a": "1, 2 and 3 only",
+      "option_b": "2 and 4 only",
+      "option_c": "1, 2 and 4 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2, 3 and 4",
+      "correct_option": "C"
+    },
+    {
+      "question": "What is the name of insurance scheme being offered as part of the Pradhan Mantri Matsya Sampada Yojana (PMMSY)?",
+      "option_a": "Fishers Accident Insurance scheme",
+      "option_b": "Blue Revolution Insurance scheme",
+      "option_c": "Fisheries and allied Insurance scheme",
+      "option_d": "Group Accident Insurance scheme",
+      "option_e": "None of the above",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements is/are correct with respect to the National Pension System (NPS)?\n1. EPFO, account for 17% of India's GDP, with NPS contributing an additional 4.5%.\n2. Hindu Undivided Families and Persons of Indian Origin are eligible\n3. PFRDA has permitted subscribers who join after age of 65 years, to allocate up to 50% of the funds in equity.",
+      "option_a": "3 Only",
+      "option_b": "1 and 3",
+      "option_c": "1 and 2",
+      "option_d": "1, 2 and 3",
+      "option_e": "2 and 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements with respect to the withdrawl procedure under the National Pension System upon attaining 60 years of age?\n1. Subscriber has the option to defer the lump sum withdrawal till the age of 75 years, required to be exercised upto 15 days prior to completion of 60 years.\n2. In case the total accumulated corpus is less than Rs. 5 Lacs, the subscriber may opt for 100% lumpsum withdrawal.\n3. At least 40% of the accumulated pension wealth of the subscriber needs to be utilized for purchase of annuity providing for monthly pension to the subscriber.",
+      "option_a": "1 Only",
+      "option_b": "2 Only",
+      "option_c": "3 Only",
+      "option_d": "1, 2 and 3",
+      "option_e": "2 and 3 Only",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements about the Lead Bank Scheme (LBS) are correct?\n1. The Lead Bank Scheme was introduced in 1969 on the recommendations of the Nariman Committee.\n2. Under the scheme, each district is allotted to a lead bank, usually a public sector bank, responsible for credit planning and coordination.\n3. The Service Area Approach was introduced under the Lead Bank Scheme in 1989 to assign specific villages to bank branches.\n4. NABARD plays a supportive role in preparing credit plans and monitoring rural credit under the Lead Bank Scheme.",
+      "option_a": "1 and 2 only",
+      "option_b": "2, 3, and 4 only",
+      "option_c": "1, 3, and 4 only",
+      "option_d": "1, 2, 3, and 4",
+      "option_e": "1 and 4 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "Choose the correct statements regarding the RBI Retail Direct Scheme:\n1. The scheme enables individual investors to open a Retail Direct Gilt (RDG) Account through an online portal and access the primary issuance of Government securities.\n2. Retail investors are required to pay a fee for opening and maintaining the Retail Direct Gilt account, but no fee is charged for submitting bids in primary auctions.\n3. The scheme provides retail investors with access to various government securities, including Treasury Bills, Government of India dated securities, and State Development Loans (SDLs) through primary subscription or secondary trades.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All 1, 2, and 3",
+      "option_e": "None of the above",
+      "correct_option": "C"
+    },
+    {
+      "question": "The RBI Retail Direct Scheme allows retail investors to open a Retail Direct Gilt Account (RDG Account) and provides access to ______ and ______ for investment in government securities.",
+      "option_a": "Secondary markets, Pension Funds",
+      "option_b": "Primary issuance, Secondary trades",
+      "option_c": "Primary auctions, Stock exchanges",
+      "option_d": "Government bonds, Mutual funds",
+      "option_e": "None of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "Mr. Sharma, a 45-year-old Indian resident, plans to remit USD 2,00,000 abroad in the financial year 2025–26 for his son’s higher education in the United States. In addition, he wants to send USD 50,000 to invest in shares of a listed company on the New York Stock Exchange. He also intends to gift USD 10,000 to his brother, who is a resident in India but holds a foreign currency account abroad. He approaches an Authorized Dealer with his PAN and requests to execute all three transactions under a single scheme introduced in 2004 and administered by the Reserve Bank of India. Under the Liberalised Remittance Scheme (LRS), which of the following statements correctly describes what Mr. Sharma can and cannot do?",
+      "option_a": "He can remit funds for education and invest in overseas shares, but cannot gift USD 10,000 to his brother’s foreign currency account abroad.",
+      "option_b": "He can remit for education, invest abroad, and also gift his brother in foreign currency, since the total amount is within the permissible limit.",
+      "option_c": "He cannot remit for investment in overseas shares, as LRS prohibits capital account transactions.",
+      "option_d": "He can remit only for education purposes under LRS, but not for investment or gifting.",
+      "option_e": "He can remit all three purposes, provided he obtains prior approval from RBI since the total exceeds USD 2,00,000.",
+      "correct_option": "A"
+    },
+    {
+      "question": "As per the Payments Infrastructure Development Fund (PIDF) Scheme, which of the following statement(s) is/are true regarding the types of payment acceptance devices covered?\n1. The scheme includes physical PoS, mPoS, and soundbox devices as eligible acceptance devices.\n2. Merchants are allowed to acquire two digital payment acceptance devices under the scheme.\n3. Even not inter-operable payment methods shall be considered under the scheme.",
+      "option_a": "Only 1",
+      "option_b": "Only 2",
+      "option_c": "Only 3",
+      "option_d": "Only 1 and 3",
+      "option_e": "1, 2, and 3",
+      "correct_option": "A"
+    },
+    {
+      "question": "Based on the Payments Infrastructure Development Fund (PIDF) Scheme, which of the following statement(s) is/are incorrect?\n1. The maximum subsidy for a physical acceptance device is set at ₹10,000, including a one-time operating cost of up to ₹500.\n2. A digital acceptance device is eligible for a subsidy covering a maximum cost of ₹3000, including the one-time operating cost.\n3. The subsidy for other contemporary devices is capped at ₹2,000, inclusive of the one-time operating cost.",
+      "option_a": "1 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "1 and 2 only",
+      "option_e": "2 and 3 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements regarding the Multidisciplinary Education and Research Improvement in Technical Education (MERITE) Scheme:\n1. The scheme aims to improve the quality, equity, and governance in technical education, aligning interventions with the NEP-2020 reforms and promoting multidisciplinary programs.\n2. The total outlay for the scheme is ₹4,200 crore, with equal contributions from the Government of India and the World Bank (₹2,100 crore each).\n3. The MERITE Scheme covers 275 private institutions across India, primarily focusing on technical education for private sector students only.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All 1, 2, and 3",
+      "option_e": "None of the above",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the following is NOT a key intervention under the Multidisciplinary Education and Research Improvement in Technical Education (MERITE) Scheme?",
+      "option_a": "Development of industry-aligned curricula and blended courses",
+      "option_b": "Faculty skill development, especially for women faculty",
+      "option_c": "Strengthening research and innovation, including incubation centers",
+      "option_d": "Creation of a new regulatory body for technical education",
+      "option_e": "Guidelines for multidisciplinary technical programs",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements about the Pradhan Mantri Ujjwala Yojana (PMUY) is incorrect?",
+      "option_a": "PMUY was launched in 2016 from Ballia, Uttar Pradesh.",
+      "option_b": "Under PMUY 2.0, migrant applicants must submit ration cards and address proof to avail the benefit.",
+      "option_c": "The scheme is implemented by the Ministry of Petroleum and Natural Gas.",
+      "option_d": "PMUY connections can only be issued in the name of an adult female member of the household.",
+      "option_e": "None of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statement is correct with respect to Pradhan Mantri Ujjwala Yojana (PMUY).\n1. Provides for financial support of - ₹1600 (for a connection 14.2kg cylinder/ Rs. 1150 for a 5 kg cylinder) for each cooking gas connection to eligible households\n2. Provides targeted subsidy of ₹500 per 14.2 kg LPG cylinder for upto 12 refills per year\n3. Under PMUY 2.0, Oil Marketing Companies (OMCs) provide LPG stove and First Refill at free of Cost to customer",
+      "option_a": "1 and 3 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "1 and 2",
+      "option_e": "2 and 3",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the follwoing statements is incorrect with respect to the restructured PM Street Vendor’s Atmanirbhar Nidhi (PM-SVANidhi) scheme?",
+      "option_a": "The total financial outlay of the restructured scheme is ₹7,332 crore with an extension up to March 31, 2030.",
+      "option_b": "The second tranche loan has been enhanced to ₹30,000 with a tenure of 24 months.",
+      "option_c": "Beneficiaries are eligible for a UPI-linked RuPay Credit Card only after successful repayment of the second tranche loan.",
+      "option_d": "Cashback incentives for digital transactions have been capped at ₹1,600 per annum.",
+      "option_e": "A credit card with limit of will be provided after the repayment of 2nd tranche loan.",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statement is correct with respect to Pradhan Mantri Street Vendor's Atmanirbhar Nidhi (PM-SVANIDHI)\n1. Small Industries Development Bank of India (SIDBI) acts as the implementing agency for the scheme.\n2. This scheme was launched by Ministry of Finance\n3. This scheme is available for beneficiaries from all the States/UTs",
+      "option_a": "Only 1",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 3",
+      "option_d": "Only 1 and 2",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding Pradhan Mantri Jan Dhan Yojana (PMJDY):\n1. One of its 6 pillars include providing pension to unorganized sector.\n2. The scheme was launched as a National Mission on Financial Inclusion.\n3. It provides accident insurance cover of ₹2 lakh for accounts opened after 28th August 2018.\n4. PMJDY account becomes inoperative if there are no customer-induced transactions for one year.\nWhich of the above statements are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "1, 2 and 3 only",
+      "option_c": "2, 3 and 4 only",
+      "option_d": "1, 3 and 4 only",
+      "option_e": "1, 2, 3 and 4",
+      "correct_option": "B"
+    },
+    {
+      "question": "Under the enhancement in overdraft (OD) facilities in PMJDY, what is the maximum OD limit available after the extension?",
+      "option_a": "₹2,000",
+      "option_b": "₹5,000",
+      "option_c": "₹8,000",
+      "option_d": "₹10,000",
+      "option_e": "₹12,000",
+      "correct_option": "D"
+    },
+    {
+      "question": "Consider the following statements regarding Jal Jeevan Mission (JJM):\n1. JJM aims to provide Functional Household Tap Connection (FHTC) to every rural household.\n2. The mission was launched in August 2019 under the Ministry of Jal Shakti.\n3. The target year for achieving its goal has been extended till 2028.\n4. The scheme is a Central Sector Scheme with 100% funding from the Centre.\nWhich of the above statements are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "1, 2 and 3 only",
+      "option_c": "1, 2 and 4 only",
+      "option_d": "2, 3 and 4 only",
+      "option_e": "1, 2, 3 and 4",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements regarding the allocation of fund under the Jal Jeevan Mission (JJM):\n1. RuralPopulation (as per last Census)- 30%\n2. RuralSC and ST populaon(as per last Census)- 10%\n3. States under DDP, DPAP, HADPand special category Hill States in terms of rural areas- 30%\n4. Population residing in habitaons affected by chemical contaminants including heavy metals (as on 31 March of preceding FY)- 10%\n5. Weightage for balance individual household connections- 30%\nWhich of the above statements are correct?",
+      "option_a": "All except 1",
+      "option_b": "All except 2",
+      "option_c": "All except 4",
+      "option_d": "All except 5",
+      "option_e": "All of the Above",
+      "correct_option": "D"
+    },
+    {
+      "question": "Under Pradhan Mantri Fasal Bima Yojana (PMFBY), State shall have to pay a penalty @ interest rate of____% per annum beyond ____ months of prescribed cut-off date for release of subsidy",
+      "option_a": "10, 3",
+      "option_b": "12, 5",
+      "option_c": "12, 3",
+      "option_d": "10, 6",
+      "option_e": "7.5, 3",
+      "correct_option": "C"
+    },
+    {
+      "question": "Match the following types of crops with their corresponding Affordable Premium Rates (APR) under Pradhan Mantri Fasal Bima Yojana (PMFBY):\nList I (Type of Crop)\nA. Kharif Crops\nB. Rabi Crops\nC. Commercial & Horticultural Crops\nList II (Premium Rate)\n1. 5%\n2. 2%\n3. 1.5%",
+      "option_a": "A–2, B–3, C–1",
+      "option_b": "A–3, B–2, C–1",
+      "option_c": "A–1, B–2, C–3",
+      "option_d": "A–2, B–1, C–3",
+      "option_e": "A–3, B–1, C–2",
+      "correct_option": "A"
+    },
+    {
+      "question": "Consider the following statements regarding Pradhan Mantri Matru Vandana Yojana (PMMVY) 2.0 and identify the correct ones:\n1. The scheme provides maternity benefits of ₹5,000 in a single installment.\n2. The scheme is implemented under the Ministry of Health and Family Welfare.\n3. Women in regular employment with the Central Government are not eligible under the scheme.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "2 only",
+      "option_e": "All of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "Match the following features of PMMVY 2.0 with their corresponding descriptions:\nColumn A\nA. Tagline\nB. Benefit for 2nd girl child\nC. Meal provision\nD. Minimum maternity benefit (1st child)\nColumn B\n1. ₹6000 in 1 installment for 2nd girl child\n2. Matru Shakti Rashtra Shakti\n3. During pregnancy and 6 months post childbirth\n4. ₹5000 in 2 installments",
+      "option_a": "A-4, B-2, C-1, D-3",
+      "option_b": "A-1, B-3, C-2, D-4",
+      "option_c": "A-3, B-4, C-1, D-2",
+      "option_d": "A-4, B-1, C-2, D-3",
+      "option_e": "A-2, B-1, C-3, D-4",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following statements is correct with reference to the PM E-DRIVE – Electric Truck Incentive Scheme, launched in July 2025?",
+      "option_a": "The scheme provides a maximum incentive of ₹12 lakh per electric truck, covering both N1 and N2 vehicle categories.",
+      "option_b": "Only trucks operating in the cement and textiles sectors are eligible under the scheme.",
+      "option_c": "The scheme mandates a minimum warranty of 7 years or 6 lakh km for the battery to qualify for incentives.",
+      "option_d": "The scheme provides upfront purchase incentives reimbursed to OEMs via a first-come, first-served mechanism.",
+      "option_e": "Only private logistics operators are eligible to avail benefits under this scheme; CPSEs are excluded.",
+      "correct_option": "D"
+    },
+    {
+      "question": "Consider the following statements regarding the PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) Scheme:\n1. The scheme provides incentives for e-2Ws, e-3Ws, e-ambulances, e-trucks, and e-buses, with no coverage for infrastructure-related support.\n2. Demand incentives for e-2Ws and e-3Ws are capped at ₹5,000 and ₹2,500 per kWh, respectively, for the fiscal years 2024-25 and 2025-26.\n3. Under the scheme, e-vouchers can be claimed by EV buyers at the time of purchase to avail the demand-linked benefits.\nWhich of the above statement(s) is/are correct?",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 3",
+      "option_d": "Only 1",
+      "option_e": "All 1, 2, and 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements regarding the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP):\n1. The scheme was launched in 2008 as the Jan Aushadhi Scheme, later renamed as Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) in 2016.\n2. Pradhan Mantri Bhartiya Janaushadhi Kendras (PMBJKs) provide medicines that are priced 30%-50% less than branded medicines.\n3. The scheme aims to open at least one PMBJK in every district of the country and also extend coverage to sub-divisional levels, major towns, and villages.\nWhich of the statements is/are correct?",
+      "option_a": "1 and 3 only",
+      "option_b": "1, 2 and 3 only",
+      "option_c": "2, 3 and 4 only",
+      "option_d": "1, 3 and 4 only",
+      "option_e": "1, 2, 3 and 4",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the following incentives is/are available under the Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)?",
+      "option_a": "A special incentive of ₹2.00 lakh is provided for women entrepreneurs, Divyaang, and SC/ST entrepreneurs who open PMBJK.",
+      "option_b": "PACS (Primary Agricultural Credit Societies) are not eligible to open PMBJKs under this scheme.",
+      "option_c": "Kendra owners are provided a sale margin of 10% on MRP of medicines.",
+      "option_d": "PMBJKs provide sanitary pads at ₹10 per pad for women.",
+      "option_e": "PMBJK owners receive a one-time grant of ₹5 lakh for opening the Kendra.",
+      "correct_option": "A"
+    },
+    {
+      "question": "Consider the following statements regarding the Ekalavya Model Residential Schools (EMRS):\n1. The scheme was launched in 1997-98 with the objective to provide quality education to ST children in remote areas to improve their academic and professional opportunities.\n2. The maximum sanctioned strength of a school under EMRS is 480 students, with an equal number of seats for boys and girls, and 10% of the seats can be filled by non-ST candidates.\n3. The recurring grant-in-aid per student under the scheme is ₹1,47,062, and the construction cost of the school has been increased to ₹48 crore for hilly areas.\nWhich of the statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All 1, 2, and 3",
+      "option_e": "None of the above",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following is NOT a feature of the Ekalavya Model Residential Schools (EMRS)?",
+      "option_a": "The maximum number of students per class for Class VI to X is 60.",
+      "option_b": "Seats are reserved under the sports quota for deserving ST students who have excelled in sports.",
+      "option_c": "The recurring grant-in-aid per student was increased from ₹1,09,000 to ₹1,51,019.",
+      "option_d": "The construction cost for schools in hilly areas is ₹48 crore.",
+      "option_e": "Priority is given to children who have lost parents due to left-wing extremism and insurgencies.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statements about the Pradhan Mantri Kisan Maan Dhan Yojana (PMKMY) is correct?",
+      "option_a": "A subscriber who exits the scheme before 10 years will receive their contributions along with interest earned at the savings bank interest rate.",
+      "option_b": "The scheme provides an assured monthly pension of ₹5000 to Small and Marginal Farmers (SMFs) upon reaching the age of 60.",
+      "option_c": "If a subscriber dies after the vesting date, the spouse is entitled to receive 50% of the pension as Family Pension only if they are already an SMF beneficiary of the scheme.",
+      "option_d": "The scheme allows subscribers to contribute on a monthly basis only, with no other options available.",
+      "correct_option": "A"
+    },
+    {
+      "question": "Under the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme, which of the following statements is incorrect?",
+      "option_a": "The scheme provides ₹6,000 annually to all landholding farmer families, disbursed in three equal instalments.",
+      "option_b": "Tenant farmers are eligible for the scheme provided they cultivate the land.",
+      "option_c": "Institutional landholders are excluded from the benefits of the scheme.",
+      "option_d": "Aadhar-based eKYC is mandatory for availing scheme benefits.",
+      "option_e": "The responsibility of identifying beneficiaries lies with State/UT Governments.",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statement is incorrect in reference to AI Chatbot known as Kisan e-Mitra under Pradhan Mantri Kisan Samman Nidhi (PM KISAN)?",
+      "option_a": "It is 1st AI Chatbot integrated with a major flagship scheme of Union government.",
+      "option_b": "It is developed with support of NITI Aayog and National Information Centre.",
+      "option_c": "It will assist farmers in seeking information related to their application status, payment details, ineligibility status, and other scheme-related updates.",
+      "option_d": "It is accessible through PM KISAN mobile app, offers multilingual support.",
+      "option_e": "None of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements with respect to the PM AWAS YOJANA - URBAN 2.0:\n1. The scheme targets the construction of 1 crore houses for urban poor and middle-class families with an investment of ₹10 lakh crore.\n2. The houses constructed under this scheme will be required to be sold after a 3-year lock-in period.\n3. The scheme focuses on providing affordable housing to urban residents, especially targeting EWS, LIG, and MIG households.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "1 and 3 only",
+      "option_c": "2 and 3 only",
+      "option_d": "All 1, 2, and 3",
+      "option_e": "1 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements about PM AWAS YOJANA - URBAN 2.0:\n1. The government provides central assistance of up to ₹2.50 lakh per unit for eligible beneficiaries in both plain and hilly areas.\n2. The scheme includes an Interest Subsidy Scheme (ISS) with a subsidy of 4% on loans up to ₹35 lakh for the EWS category.\n3. Beneficiary selection is done by a committee at the District/ULB level, headed by the District Magistrate or Municipal Commissioner.\nWhich of the following statements is/are incorrect?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 only",
+      "option_c": "3 only",
+      "option_d": "1 and 3 only",
+      "option_e": "All of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the Following statements is/are correct with respect to Prime Minister’s Internship Scheme?\n1. The scheme provides training for youth between 21 and 24 years of age, with a preference for those who are full-time employed or pursuing higher education.\n2. Partner companies are permitted to offer internships in collaboration with their suppliers, or other value chain entities if they are unable to provide in-house internship opportunities.\n3. The interns are insured under government schemes like PM Jeevan Jyoti Bima Yojana and PM Suraksha Bima Yojana, with premiums entirely covered by the companies.\n4. The Ministry of Corporate Affairs (MCA) will issue a one-time grant of ₹6,000 to cover incidental expenses when interns join their workplace.",
+      "option_a": "Only 1 and 3",
+      "option_b": "Only 2 and 4",
+      "option_c": "Only 3 and 4",
+      "option_d": "Only 2 and 3",
+      "option_e": "Only 1 and 4",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statements regarding the Prime Minister’s Internship Scheme:\n1. The scheme aims to provide 1.25 crore internship opportunities within the fiscal year 2024-25, with the participation of India’s top 500 companies.\n2. Interns are required to dedicate at least 75% of the internship period to hands-on work experience in real-world job environments.\n3. A monthly stipend of ₹5,000 is provided, with ₹4,500 funded by the government and ₹500 contributed by the companies from their Corporate Social Responsibility (CSR) funds.\nWhich of the above statements is/are correct?",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 3",
+      "option_d": "Only 2",
+      "option_e": "Only 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "With reference to the PM JANMAN scheme, consider the following statements:\n1. The scheme targets the comprehensive development of Particularly Vulnerable Tribal Groups (PVTGs) across 18 States and 2 Union Territories.\n2. Under the scheme, ₹2.39 lakh per unit is allocated for the provision of pucca houses to eligible PVTG households.\n3. One of the key features includes the construction of Multipurpose Centres (MPCs), each supported with provision for an Auxiliary Nurse Midwife (ANM) and an Anganwadi worker.\nWhich of the statements given above is/are correct?",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 3",
+      "option_d": "1, 2 and 3",
+      "option_e": "Only 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following targets with respect to PM JANMAN (Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan) and answer which of the following is correct.\n1. Provision of pucca houses to 10 lakh beneficiary\n2. Piped Water Supply to all PVTG habitations\n3. Connecting roads of 80000 KM",
+      "option_a": "Only 1",
+      "option_b": "Only 2",
+      "option_c": "Only 3",
+      "option_d": "1 and 2",
+      "option_e": "2 and 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statements is/are correct regarding Dharti Aaba Janjatiya Gram Utkarsh Abhiyan (DAJGUA)?\nStatement 1: The scheme aims to improve socio-economic conditions of tribal communities through saturation coverage in tribal-majority villages.\nStatement 2: DAJGUA involves 17 ministries and is funded under the Development Action Plan for Scheduled Tribes (DAPST).\nStatement 3: The scheme includes a dedicated focus on universal access to good education and healthy ageing among ST populations.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 3",
+      "option_d": "1, 2 and 3",
+      "option_e": "Only 1",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements is/are incorrect with respect to the DAJGUA scheme?\n1. The scheme will cover about 63,000 villages and 549 districts across India.\n2. Up to ₹2 lakh per household is provided for construction under Tribal Home Stays initiative.\n3. The recurring cost per beneficiary under DAJGUA is fixed at ₹1,00,000.",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 2",
+      "option_d": "Only 2",
+      "option_e": "Only 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statements about lending to SHGs under DAY-NRLM is correct?\n1. SHGs are eligible for only one-time loans capped at ₹3 lakh.\n2. Collateral is mandatory for loans beyond ₹5 lakh.\n3. SHGs can avail multiple doses of credit, starting from ₹1.5 lakh to above ₹6 lakh, based on Micro Credit Plans and repayment history.\n4. SHG loans cannot be used for income-generating activities.",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 2",
+      "option_d": "Only 2",
+      "option_e": "Only 3",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following statements reflects the key features of DAY-NRLM?\n1. One member (preferably a woman) from every rural poor household is mobilized into SHGs, with at least 50% beneficiaries from SC/STs, 15% minorities, and 3% PwDs.\n2. Community-based Participatory Identification of Poor (PIP), vetted by Gram Sabha, reduces inclusion/exclusion errors.\n3. SHGs receive Revolving Funds, CIF, and interest subvention but not capital subsidy.\n4. The Mission is implemented in a phased manner, with intensive blocks receiving full staff and activities.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 2",
+      "option_d": "1, 2, 3 and 4",
+      "option_e": "1, 3 and 4",
+      "correct_option": "D"
+    },
+    {
+      "question": "Choose the correct statements regarding the DAY-NRLM scheme:\n1. An SHG must be at least 6 months old and have received a previous Revolving Fund (RF) to be eligible for further RF assistance.\n2. Community Investment Support Fund (CIF) is sanctioned directly by the Ministry of Finance to SHGs with bank linkage of at least ₹5 lakh.\n3. Under DAY-NRLM, at least one member from every rural household, preferably a woman, is to be brought under the SHG network in a time-bound manner.\n4. Vulnerability Reduction Fund up to ₹1.5 lakh per Village Organization (VO) is granted to address community-level vulnerabilities only.\n5. Interest subvention for SHG loans above ₹3 lakh and up to ₹5 lakh is capped at 5% and is applicable only when the loan account remains standard.",
+      "option_a": "1 and 2",
+      "option_b": "2 and 3",
+      "option_c": "1 and 2",
+      "option_d": "1, 2, 3 and 4",
+      "option_e": "3, 4 and 5",
+      "correct_option": "D"
+    },
+    {
+      "question": "Consider the following statements regarding pilot projects on the use of Green Hydrogen (GH) under the National Green Hydrogen Mission:\n1. In the shipping sector, at least 2 ships must be retrofitted to run on GH or its derivatives by 31.12.2027.\n2. In the steel sector, funding of approved projects shall not exceed 70% of the total cost for all projects.\n3. In the transport sector, certain routes would be designated as Hydrogen Highways where necessary infrastructure will be built.\n4. In the R&D scheme, private research institutions can receive up to 100% of the total project cost as financial support.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 3 only",
+      "option_b": "1, 3 and 4 only",
+      "option_c": "2 and 4 only",
+      "option_d": "1, 2, 3 and 4",
+      "option_e": "1 and 4 only",
+      "correct_option": "A"
+    },
+    {
+      "question": "Choose the correct statements with respect to the sub-missions under National Green Hydrogen Mission:\n1. The SIGHT Programme provides two distinct financial incentives – one for electrolyser manufacturing and another for green hydrogen production.\n2. The Green Hydrogen Hubs scheme mandates at least four hubs to be established in the initial phase.\n3. The SIGHT Programme is implemented by the Solar Energy Corporation of India (SECI) under the Ministry of New & Renewable Energy.\n4. Green Hydrogen Hubs aim to co-locate production and consumption to reduce logistics costs.\nWhich of the above statements are correct?",
+      "option_a": "1, 2 and 3 only",
+      "option_b": "1, 3 and 4 only",
+      "option_c": "2 and 4 only",
+      "option_d": "1, 2, 3 and 4",
+      "option_e": "1 and 3 only",
+      "correct_option": "B"
+    },
+    {
+      "question": "Consider the following statement with respect to funding pattern under the Swachh Bharat Mission Urban:\n1. 90%:10% for ULBs in NE/Himalayan States\n2. 80%:20% for UTs withlegislature\n3. 25%:75% for 10lakh plus ULBs\n4. 30%:70% for ULBs with 1 lakh to 10lakh population\n5. 60%:40%forULBs with less than 1 lakh population\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "1, 2 and 4 only",
+      "option_c": "2 and 4 only",
+      "option_d": "1, 2, and 3 only",
+      "option_e": "All four statements",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements regarding Swachh Bharat Mission (Gramin) Phase II is/are correct?\n1. Under GOBAR-dhan(Galvanizing Organic Bio-Agro Resources-dhan) initiative to convert bio-waste into biogas financial assistance up to ₹50 lakh per district for setting up community and cluster model biogas plants..\n2. Community Sanitary Complexes (CSCs) are mandatory for villages with over 100 households and must include gender-segregated facilities.\n3. The ODF Plus Model status mandates visual cleanliness along with sustainable solid and liquid waste management solutions.\n4. Grey Water Management assistance varies based on population size, ensuring higher allocations for larger villages.",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 1, 3, and 4",
+      "option_c": "Only 2, 3, and 4",
+      "option_d": "Only 1, 2, and 4",
+      "option_e": "All 1, 2, 3, and 4",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding Pradhan Mantri Mudra Yojana (PMMY):\n1. Under the PMMY scheme, Shishu category covers loans up to ₹50,000, and Tarun Plus covers loans up to ₹10 lakh.\n2. PMMY is managed by the National Credit Guarantee Trustee Company Ltd. (NCGTC) and aims to finance small businesses including agriculture-allied activities.\n3. PMMY loans up to ₹10 lakh for Micro and Small Enterprises (MSE) sector do not require collateral security by banks.\nWhich of the above statements is/are correct?",
+      "option_a": "Only 1 and 2",
+      "option_b": "Only 2 and 3",
+      "option_c": "Only 1 and 3",
+      "option_d": "Only 2",
+      "option_e": "1, 2 and 3",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which among the following organisation is not eligible to extend loans under Pradhan Mantri Mudra Yojana (PMMY).",
+      "option_a": "Regional Rural Banks (RRBs) & Small Finance Banks",
+      "option_b": "Non-Banking Finance Companies",
+      "option_c": "Foreign Banks & Private Sector Banks,",
+      "option_d": "Micro Finance Institutions",
+      "option_e": "None of the above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Consider the following statements regarding Atal Pension Yojana (APY):\n1. The scheme is applicable to all citizens of India aged between 18–50 years.\n2. Any person who is an income-tax payer on the date of application is not eligible for enrolment (w.e.f. 1st October 2022).\n3. After the death of a subscriber, the spouse is entitled to receive the same pension as the subscriber.\n4. Two APY accounts can be opened by the same individual.\nWhich of the following is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1, 3 and 4 only",
+      "option_d": "2, 3 and 4 only",
+      "option_e": "1, 2, 3 and 4",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statements about the financial inclusion schemes is incorrect?",
+      "option_a": "‘Pradhan Mantri Jan Dhan Yojana’ aims to provide universal banking services and follows the principles of banking the unbanked, securing the unsecured, and funding the unfunded.",
+      "option_b": "‘Pradhan Mantri Suraksha Bima Yojana’ offers ₹2 lakh accident insurance for total disability or death at a ₹20 annual premium.",
+      "option_c": "‘Pradhan Mantri Jeevan Jyoti Bima Yojana’ provides ₹2 lakh life insurance at a ₹500 annual premium for people aged 18-50 years.",
+      "option_d": "‘Atal Pension Yojana’ offers a fixed pension of ₹1000-₹5000 after 60 years, for subscribers aged 18-40 years.",
+      "option_e": "‘Pradhan Mantri Mudra Yojana’ provides loans up to ₹20 lakh for business and allied agriculture.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Consider the following statements regarding the Modified Interest Subvention Scheme (MISS):\n1. Farmers availing short-term crop loans up to ₹3 lakh are charged an interest rate of 7% per annum, which can reduce to 4% per annum on prompt repayment.\n2. A sub-limit of ₹2 lakh has been earmarked for loans related to allied activities like animal husbandry, dairy, and fisheries.\n3. Collateral-free loan limit under the scheme has been enhanced to ₹5 lakh per borrower.\nWhich of the above statements is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "1, 2 and 3",
+      "option_e": "1 only",
+      "correct_option": "A"
+    },
+    {
+      "question": "Under the Pradhan Mantri Kisan SAMPADA Yojana, which of the following statements is correct?",
+      "option_a": "The maximum grant-in-aid for Integrated Cold Chain and Value Addition Infrastructure is ₹5 crores per project across all regions.",
+      "option_b": "The Creation/Expansion of Food Processing & Preservation Capacities component provides 50% grant-in-aid for general areas and 35% for special areas.",
+      "option_c": "The Creation of Infrastructure for Agro-Processing Clusters provides a grant-in-aid of 35% of the eligible project cost in general areas and 50% in difficult areas, with a maximum ceiling of ₹10 crores per project.",
+      "option_d": "The Human Resources and Institutions – R&D component offers 100% grant-in-aid for equipment costs in all regions.",
+      "option_e": "The Mega Food Park component has been expanded during the 15th Finance Commission cycle.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statement is incorrect with respect to Pradhan Mantri Kisan SAMPADA Yojana (PMKSY)?",
+      "option_a": "Financial assistance to undertake demand driven R&D work for benefit food processing industry to be provided.",
+      "option_b": "It was Renamed as Pradhan Mantri Kisan SAMPADA Yojana (PMKSY) in August 2017.",
+      "option_c": "It is a Centrally Sponsored Scheme.",
+      "option_d": "Under Operation Green scope expanded from Tomato-Onion-Potato (TOP) to 22 perishables.",
+      "option_e": "None of the above",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statements is incorrect regarding the structure and implementation of the ‘Pradhan Mantri Viksit Bharat Rojgar Yojana’?\n1. Employees under Part A must serve continuously for at least 12 months to receive the first installment of their EPF wage incentive.\n2. Employers with exactly 50 employees must hire a minimum of two additional workers to become eligible for incentives.\n3. Employer incentives under Part B are disbursed based on the EPF wage slabs of new hires, with proportional incentives for wages up to ₹10,000.\n4. Incentives to employees are directly credited into PAN-linked bank accounts through the Aadhaar Bridge Payment System.",
+      "option_a": "1, 3 and 4",
+      "option_b": "1, 2 and 4",
+      "option_c": "2, 3 and 3",
+      "option_d": "1, 2 and 3",
+      "option_e": "All of the above",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following is correct regarding Part A of the the ‘Pradhan Mantri Viksit Bharat Rojgar Yojana’?",
+      "option_a": "The benefit includes two months’ EPF wage paid immediately upon joining.",
+      "option_b": "It targets 1 crore first-time employees registered with NPS.",
+      "option_c": "Employees earning up to ₹1 lakh/month are eligible for the incentive.",
+      "option_d": "No conditions are attached for receiving the full benefit.",
+      "option_e": "The incentive is paid entirely in cash without any savings requirement.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statements is incorrect regarding the SPREE 2025 (Scheme for Promotion of Registration of Employers and Employees)?",
+      "option_a": "Employers can register their units and employees through the ESIC portal, Shram Suvidha portal, and MCA portal.",
+      "option_b": "Registration under SPREE 2025 is valid from the date declared by the employer, and no contribution or benefit will apply to any period prior to registration.",
+      "option_c": "Employers participating in SPREE 2025 will be subjected to retrospective penalties for the pre-registration period.",
+      "option_d": "The scheme is designed to bring unregistered employers and employees, including contractual and temporary workers, into the formal ESI network.",
+      "option_e": "SPREE 2025 aims to increase the coverage of establishments under the ESI Act and provides medical and social benefits to workers.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statements about the ADEETIE (Assistance in Deploying Energy Efficient Technologies in Industries & Establishments) scheme is incorrect?",
+      "option_a": "The scheme is implemented by the Bureau of Energy Efficiency (BEE) under the Ministry of Power.",
+      "option_b": "It offers interest subvention of 5% for Micro & Small Enterprises and 3% for Medium Enterprises.",
+      "option_c": "ADEETIE targets 14 energy-intensive sectors including Textiles, Forging, Food Processing, and Pharma.",
+      "option_d": "The scheme is scheduled to be implemented over a five-year period from FY 2024-25 to FY 2028-29.",
+      "option_e": "ADEETIE includes funding for energy audits, detailed project reports, and monitoring & verification activities.",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements about the Prime Minister Dhan-Dhaanya Krishi Yojana is correct?",
+      "option_a": "The scheme will be implemented over a three-year period beginning in FY 2024-25.",
+      "option_b": "Only districts with high agricultural productivity will be selected for focused interventions.",
+      "option_c": "The scheme excludes private sector participation in its implementation framework.",
+      "option_d": "District-level plans under the scheme will be prepared by District Dhan Dhaanya Samitis, which include progressive farmers.",
+      "option_e": "The scheme is limited to irrigation development and does not cover post-harvest infrastructure.",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following is a key feature of the Prime Minister Dhan-Dhaanya Krishi Yojana (PM-DDKY)?\n1. The scheme integrates three central government scheme to promote agricultural development.\n2. The scheme focuses on increasing agricultural credit disbursement by integrating private sector partnerships for localized support.\n3. Monitoring and evaluation of the scheme is based on 50 Key Performance Indicators (KPIs).",
+      "option_a": "1 only",
+      "option_b": "2 and 3",
+      "option_c": "2 only",
+      "option_d": "1 and 3",
+      "option_e": "All of the above",
+      "correct_option": "C"
+    },
+    {
+      "question": "Incentives under AMRUT 2.0 is given for which among the following purpose?",
+      "option_a": "Rejuvenation of water bodies in cities",
+      "option_b": "Reducing non-revenue water to 20%",
+      "option_c": "Rain water harvesting in all institutional buildings",
+      "option_d": "Reuse of 20% treated waste water",
+      "option_e": "Reuse of waste water to meet 40% industrial water demand",
+      "option_f": "All of the Above",
+      "correct_option": "E"
+    },
+    {
+      "question": "Which of the following statement is correct with respect to Atal Mission for Rejuvenation and Urban Transformation (AMRUT) 2.0 scheme\n1. Providing universal coverage of sewerage & septage management in 1000 AMRUT cities\n2. Funds for projects are released by MoHUA to the Districts/ Urban Local Bodies (ULBs) directly.\n3. The States/ UTs were required to complete all State Water Action Plan (SWAP) and get it approved within 2 years from the start of the Mission",
+      "option_a": "Only 1",
+      "option_b": "Only 3",
+      "option_c": "1 & 2",
+      "option_d": "2 & 3",
+      "option_e": "1, 2 & 3",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which of the following statements about the PM-Surya Ghar: Muft Bijli Yojana is incorrect?",
+      "option_a": "The scheme offers free electricity up to 300 units per month for 1 crore households.",
+      "option_b": "Households must not have availed of any other subsidy for solar panels to be eligible.",
+      "option_c": "The Central Financial Assistance (CFA) covers up to 100% of system cost for 3 kW capacity.",
+      "option_d": "The scheme aims to add 30 GW of solar capacity in the residential sector.",
+      "option_e": "The tenure of the scheme is till the financial year 2026–27.",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the above statements is/are correct about the Pradhan Mantri Awaas Yojana – Gramin (PMAY-G) during FY 2024-25 to 2028-29:\n1. The scheme will continue with the existing unit cost of ₹1.20 lakh for beneficiaries in plain areas and ₹1.30 lakh for those in North Eastern and Hill States.\n2. The scheme aims to complete the remaining 35 lakh houses from the previous phase by March 2025.\n3. The scheme will be re-appraised by the EFC and evaluated by NITI Aayog before its continuation beyond March 2026.\n4. Awaas+ list is updated using new inclusion criteria for identifying eligible rural households.",
+      "option_a": "1, 2, and 3 only",
+      "option_b": "1, 2, and 4 only",
+      "option_c": "1, 3, and 4 only",
+      "option_d": "2, 3, and 4 only",
+      "option_e": "All of the above",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the following families would be eligible to avail benefits under the revised criteria of the Pradhan Mantri Awas Yojana (Gramin)?",
+      "option_a": "A family that owns two motorcycles and earns Rs 18,000 per month.",
+      "option_b": "A family that owns a tractor and a Kisan Credit Card with a credit limit of Rs 55,000.",
+      "option_c": "A family where one member is a government employee and they own 1.5 acres of irrigated land.",
+      "option_d": "A family that owns a refrigerator, a motorized fishing boat, and earns Rs 14,000 per month.",
+      "option_e": "A family with a registered non-agricultural enterprise and income from it of Rs 8,000 per month.",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following statements regarding the Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PM-JAY) is INCORRECT?",
+      "option_a": "PM-JAY subsumes the earlier Rashtriya Swasthya Bima Yojana (RSBY) and provides ₹5 lakh coverage per individual for primary, secondary, and tertiary care.",
+      "option_b": "The scheme ensures coverage of all pre-existing conditions from the first day of enrollment.",
+      "option_c": "In States/UTs where PM-JAY is not implemented, beneficiaries can still avail treatment under the scheme at empaneled hospitals.",
+      "option_d": "Senior citizens above 70 years from non-PMJAY families receive ₹5 lakh top-up cover exclusively in their name.",
+      "option_e": "Families not present in SECC 2011 data but previously covered under RSBY are also included as beneficiaries.",
+      "correct_option": "A"
+    },
+    {
+      "question": "Mr. X who is an artisan, has a family consisting of 6 members is trying to get benefit under Pradhan Mantri Jan Arogya Yojana (PM-JAY), which is the largest health assurance scheme in the world. Which of the following condition(s) is/are correct with respect to benefits under Pradhan Mantri Jan Arogya Yojana (PM-JAY)?\n1. Only 5 members of the family will be eligible for health insurance\n2. It covers up to 3 days of pre-hospitalization and 50 days post-hospitalization.\n3. Children up to 5 years of age avail treatment on the Ayushman Card of their parents",
+      "option_a": "Only 1",
+      "option_b": "Only 2",
+      "option_c": "Only 3",
+      "option_d": "1 and 2",
+      "option_e": "All of the above",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statements about the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is INCORRECT?",
+      "option_a": "The Act came into effect on February 2, 2006, guaranteeing the \"right to work\".",
+      "option_b": "MGNREGA provides at least 100 days of guaranteed wage employment in a financial year to rural households.",
+      "option_c": "Under normal provisions, the wage and material cost ratio is maintained at 50:50.",
+      "option_d": "Scheduled Tribes living in forest areas are entitled to 150 days of wage employment under MGNREGA.",
+      "option_e": "The responsibility for paying unemployment allowance rests with the State Government.",
+      "correct_option": "C"
+    },
+    {
+      "question": "With respect to the National Apprenticeship Scheme (NAPS-2), which of the following statements are true?\n1. The Central Government shares 25% of the prescribed stipend with a maximum of ₹1500 per month per apprentice.\n2. Stipend support is given during the basic training period for fresher apprentices.\n3. The scheme targets enrollment of 46 lakh apprentices over 4 years.",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "1 and 3 only",
+      "option_d": "All are correct",
+      "option_e": "None of the above",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following statement(s) regarding PMKVY 4.0 is/are incorrect?\n1. PMKVY 4.0 continues to track placements for all trained candidates, as was done in PMKVY 1.0 to 3.0.\n2. Planning under PMKVY 4.0 follows a top-down model, where central policies dictate local implementation.\n3. PMKVY 4.0 is trainee-centric, with district-level nodal skill centres acting as fundamental implementation units.\n4. Under Skill Hubs, skill development initiatives cover not only students from class 6 to 12 but also school dropouts and out-of-education youth.",
+      "option_a": "Only 1 and 2 are incorrect",
+      "option_b": "Only 2 and 3 are incorrect",
+      "option_c": "Only 1, 2, and 4 are incorrect",
+      "option_d": "Only 3 and 4 are correct",
+      "option_e": "All four statements are correct",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the following statements about the Skill India Mission is incorrect?",
+      "option_a": "It was launched in 2015 under the Ministry of Skill Development and Entrepreneurship.",
+      "option_b": "The mission includes schemes like PMKVY, NSDM, and Apprenticeship Protsahan Yojana.",
+      "option_c": "Only long-term training is provided under this mission through private coaching centres.",
+      "option_d": "It aims to equip youth with internationally recognized skills for employment in India and abroad.",
+      "option_e": "Traditional occupations like weaving and carpentry are also supported under the missio",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following is the objective of the SOAR (Skilling for AI Readiness) initiative under the Skill India Mission?",
+      "option_a": "To make college students AI-ready with skills in AI basics, ethics, and cybersecurity.",
+      "option_b": "To provide advanced AI research scholarships for university students.",
+      "option_c": "To make school students (Classes 6-12) AI-ready with skills in AI basics, ethics, and cybersecurity.",
+      "option_d": "To train teachers in AI programming only.",
+      "option_e": "To build AI-powered robotic labs in schools.",
+      "correct_option": "C"
+    },
+    {
+      "question": "National Critical Minerals Mission (NCMM) aims to fast-track regulatory approvals for critical mineral mining projects and develop a stockpile of critical minerals in India. Under this mission, the Geological Survey of India (GSI) will conduct ____ exploration projects from 2024-25 to 2030-31.",
+      "option_a": "500",
+      "option_b": "900",
+      "option_c": "1200",
+      "option_d": "1500",
+      "option_e": "1700",
+      "correct_option": "C"
+    },
+    {
+      "question": "Under the India Semiconductor Mission, one of the key features includes fiscal support of 50% of project cost for setting up ________ in India, along with support for ________.",
+      "option_a": "Display Fabs, Semiconductor Assembly",
+      "option_b": "Semiconductor Fabs, Sensors Fab",
+      "option_c": "Compound Semiconductors, Display Fabs",
+      "option_d": "Semiconductor Fabs, Display Fabs",
+      "option_e": "Display Fabs, Semiconductor Fabs",
+      "correct_option": "D"
+    },
+    {
+      "question": "Which of the following is not one of the objectives of ‘Gyan Bharatam Mission’?",
+      "option_a": "Digitization through creation of a National Digital Manuscripts Library.",
+      "option_b": "Capacity building in manuscriptology, paleography, and conservation.",
+      "option_c": "Outreach through seminars, exhibitions, and cultural programs.",
+      "option_d": "Promoting competitive research grants for biotechnology and life sciences.",
+      "option_e": "Scientific and preventive preservation across India",
+      "correct_option": "D"
+    },
+    {
+      "question": "With reference to Components of PM-KUSUM, consider the following statements:\n1. Component B – Solarisation of agriculture feeder to provide daytime assured electricity.\n2. Component A – Set up decentralized ground-mounted or stilt-mounted grid-connected solar or other renewable energy power plants on farmers' land.\n3. Component C – focuses on de-dieselisation by installing off-grid standalone solar agriculture pumps.\nWhich of the above is/are correct?",
+      "option_a": "1 and 2 only",
+      "option_b": "2 and 3 only",
+      "option_c": "2 only",
+      "option_d": "1 and 3 only",
+      "option_e": "1, 2 and 3",
+      "correct_option": "C"
+    }
+  ]
