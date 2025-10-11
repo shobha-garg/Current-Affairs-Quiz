@@ -1,6 +1,6 @@
 [
   {
-    "question": "Consider the following statements regarding the India Rankings 2025. Identify the correct statements from those given below:\n1.It has been released by Department of Higher Education, Ministry of Education, and evaluates and ranks higher education institutions in India across multiple categories and subject domains\n2.India Rankings, launched in 2006 with 1 category (Universities) and 3 subject domains (Engineering, Management, Pharmacy), expanded to 9 categories and 8 subject domains from 2007 to 2025.\n3.National Institutional Ranking Framework (NIRF), launched in September 2015 by the Ministry of Education, was used for the 2025 edition.",
+    "question": "Consider the following statements regarding the India Rankings 2025. Identify the correct statements from those given below:\n1. It has been released by Department of Higher Education, Ministry of Education, and evaluates and ranks higher education institutions in India across multiple categories and subject domains.\n2. India Rankings, launched in 2006 with 1 category (Universities) and 3 subject domains (Engineering, Management, Pharmacy), expanded to 9 categories and 8 subject domains from 2007 to 2025.\n3. National Institutional Ranking Framework (NIRF), launched in September 2015 by the Ministry of Education, was used for the 2025 edition.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -8,7 +8,7 @@
     "correct_option": "C"
   },
   {
-    "question": "Consider the following statements regarding India Rankings 2025, and identify correct statements:\n1.Indian Institute of Technology Madras has maintained its 1st position in the Overall category for seven consecutive years (2019-2025), and is on top in the SDG category.\n2.Indian Institute of Science, Bengaluru has topped the Engineering category.\n3.IGNOU holds the top position in the open universities category.",
+    "question": "Consider the following statements regarding India Rankings 2025, and identify correct statements:\n1. Indian Institute of Technology Madras has maintained its 1st position in the Overall category for seven consecutive years (2019-2025), and is on top in the SDG category.\n2. Indian Institute of Science, Bengaluru has topped the Engineering category.\n3. IGNOU holds the top position in the open universities category.",
     "option_a": "1 only",
     "option_b": "1 and 3 only",
     "option_c": "2 and 3 only",
@@ -16,15 +16,15 @@
     "correct_option": "B"
   },
   {
-    "question": "With reference to the Global Innovation Index (GII) 2025, consider the following statements and identify the incorrect statements :\n1.The Global Innovation Index ranking is prepared on the basis of two distinct sub-indices that collectively utilize 78 indicators to assess innovation ecosystems.\n2.The Innovation Output Sub-Index is organized into five separate pillars that evaluate the tangible results of innovation activities within the economy.\n3.The Global Innovation Index is an annual publication released by the World Intellectual Property Organization (WIPO) in partnership with the Portulans Institute covering performance of economies worldwide.",
+    "question": "With reference to the Global Innovation Index (GII) 2025, consider the following statements and identify the incorrect statements:\n1. The Global Innovation Index ranking is prepared on the basis of two distinct sub-indices that collectively utilize 78 indicators to assess innovation ecosystems.\n2. The Innovation Output Sub-Index is organized into five separate pillars that evaluate the tangible results of innovation activities within the economy.\n3. The Global Innovation Index is an annual publication released by the World Intellectual Property Organization (WIPO) in partnership with the Portulans Institute covering performance of economies worldwide.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
-    "option_d": "2 only",
-    "correct_option": "D"
+    "option_d": "1, 2 and 3",
+    "correct_option": "B"
   },
   {
-    "question": "With reference to India’s performance in the Global Innovation Index (GII) 2025, consider the following statements and identify the correct statements :\n1.India’s overall position in the Global Innovation Index improved from 39th rank in 2024 to 38th rank in 2025, continuing its gradual rise over the years.\n2.India is represented by a total of four major innovation clusters in the world’s list of top 100 clusters, reflecting its strong regional performance.\n3.Shenzhen - Hong Kong - Guangzhou (China and Hong Kong, China) topped the GII 100 innovation cluster rankings.",
+    "question": "With reference to India’s performance in the Global Innovation Index (GII) 2025, consider the following statements and identify the correct statements:\n1. India’s overall position in the Global Innovation Index improved from 39th rank in 2024 to 38th rank in 2025, continuing its gradual rise over the years.\n2. India is represented by a total of four major innovation clusters in the world’s list of top 100 clusters, reflecting its strong regional performance.\n3. Shenzhen - Hong Kong - Guangzhou (China and Hong Kong, China) topped the GII 100 innovation cluster rankings.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -40,7 +40,7 @@
     "correct_option": "D"
   },
   {
-    "question": "With reference to the Periodic Labour Force Survey (PLFS) Monthly Bulletin – August 2025, identify the correct statement(s):\n1.The Unemployment Rate (UR) among persons aged 15 years and above declined to 5.1% in August 2025.\n2.The Worker Population Ratio (WPR) increased to 62.2% in August 2025 compared to 51.2% in June 2025.\n3.The rural unemployment rate has fallen for 3 consecutive months, from 5.1% in May 2025 to 4.3% in August 2025.",
+    "question": "With reference to the Periodic Labour Force Survey (PLFS) Monthly Bulletin – August 2025, identify the correct statement(s):\n1. The Unemployment Rate (UR) among persons aged 15 years and above declined to 5.1% in August 2025.\n2. The Worker Population Ratio (WPR) increased to 62.2% in August 2025 compared to 51.2% in June 2025.\n3. The rural unemployment rate has fallen for 3 consecutive months, from 5.1% in May 2025 to 4.3% in August 2025.",
     "option_a": "Only 1 and 2",
     "option_b": "Only 2 and 3",
     "option_c": "Only 1 and 3",
@@ -48,7 +48,7 @@
     "correct_option": "C"
   },
   {
-    "question": "Consider the following statements regarding the World Talent Ranking 2025 released by the Institute for Management Development (IMD), and identify the incorrect statements:\n1.The ranking evaluates competencies for long-term economic value by assessing workforce growth, retention, and attraction.\n2.Iceland has secured the top position for the 10th consecutive year with a score of 100.\n3.India has been ranked 63rd, while Mongolia ka was placed at the bottom (69th position).",
+    "question": "Consider the following statements regarding the World Talent Ranking 2025 released by the Institute for Management Development (IMD), and identify the incorrect statements:\n1. The ranking evaluates competencies for long-term economic value by assessing workforce growth, retention, and attraction.\n2. Iceland has secured the top position for the 10th consecutive year with a score of 100.\n3. India has been ranked 63rd, while Mongolia was placed at the bottom (69th position).",
     "option_a": "Only 1 and 2",
     "option_b": "Only 2 and 3",
     "option_c": "Only 1 and 3",
@@ -56,7 +56,7 @@
     "correct_option": "D"
   },
   {
-    "question": "Consider the following statements regarding the Air Quality Life Index (AQLI) 2025. Identify the incorrect statements from those given below:\n1. It has been released by Energy Policy Institute at the University of Chicago (EPIC).\n2. According to report, the toxic air reduces the life expectancy of Indians by an average of 3.5 years, whereas malnutrition reduces life expectancy by 1.6 years.\n3.Southern India is the most polluted region on Earth, with 544.4 million people (38.9% of India’s population) living under severe air pollution.",
+    "question": "Consider the following statements regarding the Air Quality Life Index (AQLI) 2025. Identify the incorrect statements from those given below:\n1. It has been released by Energy Policy Institute at the University of Chicago (EPIC).\n2. According to report, the toxic air reduces the life expectancy of Indians by an average of 3.5 years, whereas malnutrition reduces life expectancy by 1.6 years.\n3. Southern India is the most polluted region on Earth, with 544.4 million people (38.9% of India’s population) living under severe air pollution.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -64,7 +64,7 @@
     "correct_option": "D"
   },
   {
-    "question": "With reference to the “Assessment of Logistics Cost in India – September 2025” report, identify the in-correct statement(s):\n1.The study has been conducted by the National Council of Applied Economic Research (NCAER) for the Logistics Division, DPIIT, Ministry of Commerce and Industry.\n2.India’s aggregate logistics cost is estimated at ₹24.01 lakh crore at 2023–24 prices.\n3.Total logistics cost accounts for 7.97% of India’s GDP and 9.09% of nonservices (agriculture, mining, and manufacturing) output in 2023-24.",
+    "question": "With reference to the “Assessment of Logistics Cost in India – September 2025” report, identify the in-correct statement(s):\n1. The study has been conducted by the National Council of Applied Economic Research (NCAER) for the Logistics Division, DPIIT, Ministry of Commerce and Industry.\n2. India’s aggregate logistics cost is estimated at ₹24.01 lakh crore at 2023–24 prices.\n3. Total logistics cost accounts for 7.97% of India’s GDP and 9.09% of nonservices (agriculture, mining, and manufacturing) output in 2023-24.",
     "option_a": "Only 1 and 2",
     "option_b": "Only 2 and 3",
     "option_c": "Only 1 and 3",
@@ -72,7 +72,7 @@
     "correct_option": "D"
   },
   {
-    "question": "Consider the following statements regarding the Unified District Information System for Education Plus (UDISE+) 2024–25. Identify the incorrect statements from those given below:\n1.The UDISE+ 2024–25 report was released by the Department of School Education & Literacy (DoSEL), Ministry of Education, providing insights on the status of school education across states and UTs.\n2.For the first time since the inception of UDISE+, the total number of teachers crossed the 1-crore mark in 2024–25, showing a rise of 16.7% compared to 2022–23.\n3.The Pupil-Teacher Ratio (PTR) at the Secondary level was 21, well below the NEP’s maximum of 30:1, hence better than the benchmark.",
+    "question": "Consider the following statements regarding the Unified District Information System for Education Plus (UDISE+) 2024–25. Identify the incorrect statements from those given below:\n1. The UDISE+ 2024–25 report was released by the Department of School Education & Literacy (DoSEL), Ministry of Education, providing insights on the status of school education across states and UTs.\n2. For the first time since the inception of UDISE+, the total number of teachers crossed the 1-crore mark in 2024–25, showing a rise of 16.7% compared to 2022–23.\n3. The Pupil-Teacher Ratio (PTR) at the Secondary level was 21, well below the NEP’s maximum of 30:1, hence better than the benchmark.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -80,7 +80,7 @@
     "correct_option": "D"
   },
   {
-    "question": "Consider the following statements regarding developments in school education during 2024–25. Identify the incorrect statements from those given below:\n1.In 2024–25, the number of single-teacher schools fell by about 6% and zero-enrolment schools declined by about 38%, both indicating positive progress.\n2.Girls’ enrolment in schools increased to 48.3% in 2024–25, compared to 48.1% in 2023–24, reflecting improved female representation.\n3.The Gross Enrolment Ratio (GER) at the Middle level declined to 89.5% in 2024–25, while the GER at the Secondary level fell to 66.5% in the same year.",
+    "question": "Consider the following statements regarding developments in school education during 2024–25. Identify the incorrect statements from those given below:\n1. In 2024–25, the number of single-teacher schools fell by about 6% and zero-enrolment schools declined by about 38%, both indicating positive progress.\n2. Girls’ enrolment in schools increased to 48.3% in 2024–25, compared to 48.1% in 2023–24, reflecting improved female representation.\n3. The Gross Enrolment Ratio (GER) at the Middle level declined to 89.5% in 2024–25, while the GER at the Secondary level fell to 66.5% in the same year.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -96,7 +96,7 @@
     "correct_option": "D"
   },
   {
-    "question": "Consider the following statements regarding global hunger and nutrition as highlighted in The State of Food Security and Nutrition in the World (SOFI) 2025 report. Identify the correct statements from those given below:\n1.In 2024, hunger was reported to have affected up to 720 million individuals worldwide, which accounted for nearly 8.2% of the total global population, showing only a modest improvement from the previous year.\n2.The largest proportion of the undernourished population was observed in Asia, followed by Africa and then Latin America & the Caribbean, reflecting significant regional disparities.\n3.It was estimated that around 2.3 billion people across the globe were either moderately or severely food insecure during 2024, highlighting the widespread nature of the crisis.\n4.By the year 2030, nearly 112 million people are projected to face chronic undernourishment, with close to 60% of this burden concentrated in Africa, underscoring the continent’s vulnerability.",
+    "question": "Consider the following statements regarding global hunger and nutrition as highlighted in The State of Food Security and Nutrition in the World (SOFI) 2025 report. Identify the correct statements from those given below:\n1. In 2024, hunger was reported to have affected up to 720 million individuals worldwide, which accounted for nearly 8.2% of the total global population, showing only a modest improvement from the previous year.\n2. The largest proportion of the undernourished population was observed in Asia, followed by Africa and then Latin America & the Caribbean, reflecting significant regional disparities.\n3. It was estimated that around 2.3 billion people across the globe were either moderately or severely food insecure during 2024, highlighting the widespread nature of the crisis.\n4. By the year 2030, nearly 112 million people are projected to face chronic undernourishment, with close to 60% of this burden concentrated in Africa, underscoring the continent’s vulnerability.",
     "option_a": "1, 2 and 3 only",
     "option_b": "2 and 4 only",
     "option_c": "1, 3 and 4 only",
@@ -104,7 +104,7 @@
     "correct_option": "A"
   },
   {
-    "question": "Consider the following statements regarding the report “Towards Resilient and Prosperous Cities in India”. Identify the correct statements from those given below:\n1.The report was released by the World Bank in collaboration with the Union Ministry of Housing and Urban Affairs.\n2.India’s urban population is projected to almost double to 951 million by 2050 and further rise to 1.1 billion by 2070.\n3.By 2050, Indian cities will require investments exceeding $2.4 trillion to develop resilient and low-carbon infrastructure and services.",
+    "question": "Consider the following statements regarding the report “Towards Resilient and Prosperous Cities in India”. Identify the correct statements from those given below:\n1. The report was released by the World Bank in collaboration with the Union Ministry of Housing and Urban Affairs.\n2. India’s urban population is projected to almost double to 951 million by 2050 and further rise to 1.1 billion by 2070.\n3. By 2050, Indian cities will require investments exceeding $2.4 trillion to develop resilient and low-carbon infrastructure and services.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -112,7 +112,7 @@
     "correct_option": "D"
   },
   {
-    "question": "Consider the following statements regarding the Annual Survey of Industries (ASI) 2023–24. Identify the correct statements from those given below:\n1.The Annual Survey of Industries (ASI) 2023–24 was released by the Ministry of Statistics & Programme Implementation (MoSPI), covering industrial performance for the period April 2023 to March 2024.\n2.As per the survey, Gross Value Added (GVA) increased by 31.89%, while output rose by 5.80% and input increased by 4.71% compared to the previous year.\n3.At the state level, Gujarat ranked first in terms of fixed capital, while Tamil Nadu ranked first in terms of total persons engaged.",
+    "question": "Consider the following statements regarding the Annual Survey of Industries (ASI) 2023–24. Identify the correct statements from those given below:\n1. The Annual Survey of Industries (ASI) 2023–24 was released by the Ministry of Statistics & Programme Implementation (MoSPI), covering industrial performance for the period April 2023 to March 2024.\n2. As per the survey, Gross Value Added (GVA) increased by 31.89%, while output rose by 5.80% and input increased by 4.71% compared to the previous year.\n3. At the state level, Gujarat ranked first in terms of fixed capital, while Tamil Nadu ranked first in terms of total persons engaged.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -120,7 +120,7 @@
     "correct_option": "C"
   },
   {
-    "question": "Consider the following statements regarding the State Energy Efficiency Index (SEEI) 2024. Identify the incorrect statements from those given below:\n1.The State Energy Efficiency Index (SEEI) 2024 was released by the Bureau of Energy Efficiency (BEE) in association with the Alliance for an Energy Efficient Economy (AEEE) and it assessed the energy efficiency performance of 36 States and UTs for FY 2023–24.\n2.The SEEI 2024 classified states and UTs into four performance categories – Front Runners, Achievers, Contenders, and Aspirants – with Front Runners scoring above 60%.\n3.Among the top-performing states, Andhra Pradesh led in Group 1 (>15 MToE) while Tripura topped in Group 2 (5–15 MToE).",
+    "question": "Consider the following statements regarding the State Energy Efficiency Index (SEEI) 2024. Identify the incorrect statements from those given below:\n1. The State Energy Efficiency Index (SEEI) 2024 was released by the Bureau of Energy Efficiency (BEE) in association with the Alliance for an Energy Efficient Economy (AEEE) and it assessed the energy efficiency performance of 36 States and UTs for FY 2023–24.\n2. The SEEI 2024 classified states and UTs into four performance categories – Front Runners, Achievers, Contenders, and Aspirants – with Front Runners scoring above 60%.\n3. Among the top-performing states, Andhra Pradesh led in Group 1 (>15 MToE) while Tripura topped in Group 2 (5–15 MToE).",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -128,7 +128,7 @@
     "correct_option": "D"
   },
   {
-    "question": "Consider the following statements regarding the National Annual Report and Index (NARI) 2025 on Women’s Safety. Identify the incorrect statements from those given below:\n1.The NARI 2025 Report was released by the National Commission for Women (NCW) and surveyed women across 31 cities, evaluating safety on parameters such as infrastructure, harassment incidence, workplace security, and perceptions of safety.\n2.The national safety score was benchmarked at 55%, while the All India Average stood much above at 64.6%.\n3.Among the safest cities with scores much higher than the national average were Kohima (82.9%), Visakhapatnam (72.7%), and Bhubaneswar (70.9%).",
+    "question": "Consider the following statements regarding the National Annual Report and Index (NARI) 2025 on Women’s Safety. Identify the incorrect statements from those given below:\n1. The NARI 2025 Report was released by the National Commission for Women (NCW) and surveyed women across 31 cities, evaluating safety on parameters such as infrastructure, harassment incidence, workplace security, and perceptions of safety.\n2. The national safety score was benchmarked at 55%, while the All India Average stood much above at 64.6%.\n3. Among the safest cities with scores much higher than the national average were Kohima (82.9%), Visakhapatnam (72.7%), and Bhubaneswar (70.9%).",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -136,7 +136,7 @@
     "correct_option": "D"
   },
   {
-    "question": "With reference to the findings of the National Annual Report and Index (NARI) 2025 on Women’s Safety, identify the correct statements from those given below:\n1.Overall, about 60% of women surveyed felt safe in their cities, while the remaining 40% perceived themselves as not so safe or unsafe.\n2.Perceptions of safety drop sharply at night, especially in public transport, recreational spaces, and off-campus areas, with educational institutions remaining 66% safe during the day.\n3.Workplaces were considered secure by a vast majority, with 91% of women reporting that they felt safe in their workplace environment.",
+    "question": "With reference to the findings of the National Annual Report and Index (NARI) 2025 on Women’s Safety, identify the correct statements from those given below:\n1. Overall, about 60% of women surveyed felt safe in their cities, while the remaining 40% perceived themselves as not so safe or unsafe.\n2. Perceptions of safety drop sharply at night, especially in public transport, recreational spaces, and off-campus areas, with educational institutions remaining 66% safe during the day.\n3. Workplaces were considered secure by a vast majority, with 91% of women reporting that they felt safe in their workplace environment.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
@@ -144,11 +144,627 @@
     "correct_option": "C"
   },
   {
-    "question": "Consider the following statements regarding the Comprehensive Modular Survey: Education, 2025 (April–June 2025). Identify the correct statements from those given below:\n1.The survey was released by the Ministry of Statistics & Programme Implementation (MoSPI) as part of the 80th round of the National Sample Survey (NSS), focusing on household expenditure for students in school education.\n2.Government schools accounted for 55.9% of total enrolments in India, with the rural share (66%) higher than the urban share (30.1%).\n3.Nearly 95.7% of students in government schools reported paying course fees, compared to 26.7% in non-government schools.",
+    "question": "Consider the following statements regarding the Comprehensive Modular Survey: Education, 2025 (April–June 2025). Identify the correct statements from those given below:\n1. The survey was released by the Ministry of Statistics & Programme Implementation (MoSPI) as part of the 80th round of the National Sample Survey (NSS), focusing on household expenditure for students in school education.\n2. Government schools accounted for 55.9% of total enrolments in India, with the rural share (66%) higher than the urban share (30.1%).\n3. Nearly 95.7% of students in government schools reported paying course fees, compared to 26.7% in non-government schools.",
     "option_a": "1 and 2 only",
     "option_b": "2 and 3 only",
     "option_c": "1 and 3 only",
     "option_d": "1, 2 and 3",
     "correct_option": "A"
+  },
+  {
+    "question": "As per the New Insights from Unified Payments Interface (UPI) Data report, ________ leads UPI remittances with 5.2 billion transactions, while ________ emerged as the top beneficiary member, recording nearly 8.0 billion transactions.",
+    "option_a": "HDFC Bank and ICICI Bank",
+    "option_b": "Axis Bank and Kotak Mahindra Bank",
+    "option_c": "State Bank of India (SBI) and Yes Bank",
+    "option_d": "Punjab National Bank and Bank of Baroda",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per the TopBrand 2025 – Top 500 Global Brands list released by TopBrand Union, which company has been ranked as the world’s most valuable brand?",
+    "option_a": "NVIDIA",
+    "option_b": "Apple",
+    "option_c": "Microsoft",
+    "option_d": "Amazon",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the Smart City Index 2025 released by the International Institute for Management Development (IMD), ________ ranked as the top city globally, while ________ secured the highest rank among Indian cities.",
+    "option_a": "Oslo and Mumbai",
+    "option_b": "Geneva and Hyderabad",
+    "option_c": "Zurich and Delhi",
+    "option_d": "Dubai and Bengaluru",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the Global AI City Index 2025 released by Counterpoint Research, ________ has been ranked as the top AI city globally, while ________ and ________ were identified as the biggest vendors driving AI-city activity.",
+    "option_a": "Seoul, Amazon, IBM",
+    "option_b": "Beijing, Microsoft, Meta",
+    "option_c": "Singapore, Microsoft, Google",
+    "option_d": "San Francisco, Apple, Google",
+    "correct_option": "C"
+  },
+  {
+    "question": "Consider the following statements regarding the India Electric Mobility Index (IEMI) 2024. Identify the correct statements from those given below:\n1. The IEMI 2024 was launched by NITI Aayog as the first-of-its-kind tool to systematically track and benchmark the progress of States and Union Territories (UTs) in achieving their electric mobility goals.\n2. The index evaluates Indian States and UTs across 16 indicators under 3 core themes: Transport Electrification Progress (50% weightage), Charging Infrastructure Readiness (30%), and EV Research & Innovation Status (20%).\n3. States like Karnataka, Tamil Nadu, and Haryana were categorized as Frontrunners with robust ecosystems, while Delhi and Maharashtra were placed in the Performers category.",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "A"
+  },
+  {
+    "question": "With reference to the Swachh Survekshan Ranking Report 2024–25 released by the Ministry of Housing & Urban Affairs, consider the following statements:\n1. The 2024–25 edition represents the 9th edition of the Swachh Survekshan exercise, which was initially launched in 2016 to benchmark sanitation standards across cities.\n2. This year’s survey was guided by the central theme of “Replay, Replenish, and Recycle,” highlighting the importance of sustainable waste management practices.\n3. A total of 4,589 Urban Local Bodies (ULBs) actively participated in the 2024–25 survey, reflecting wider coverage compared to earlier editions.\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "1 and 3 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "B"
+  },
+  {
+    "question": "With reference to the Swachh Survekshan Ranking Report 2024–25, consider the following statements:\n1. For the first time, cities were grouped into five population categories ranging from Very Small Cities (<20,000) to Million-Plus Cities (>10,00,000).\n2. The Super Swachh League was introduced this year to honor cities that consistently excelled in earlier surveys.\n3. Prayagraj was recognized as the Best Ganga Town in the 2024–25 rankings.\nWhich of the above statements is/are correct?",
+    "option_a": "1 and 2 only",
+    "option_b": "1 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the Sustainable Development Goals (SDGs) – National Indicator Framework (NIF) Progress Report, 2025 released by the National Statistical Office (NSO), consider the following statements:\n1. The proportion of men, women, and children living in poverty declined from 24.85% in 2015–16 to 14.96% in 2019–21.\n2. The proportion of population covered by social protection increased from 48.8% in 2022 to 64.3% in 2025.\n3. The Gross Value Added (GVA) in agriculture per worker was ₹24,110 in 2024–25.\nWhich of the above statements is/are incorrect?",
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "1 and 2 only",
+    "option_d": "3 only",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the Sustainable Development Goals (SDGs) – National Indicator Framework (NIF) Progress Report, 2025, consider the following statements:\n1. The gross enrolment ratio for tertiary education improved to 29.5% in 2022–23.\n2. The proportion of the rural population using an improved drinking water source increased to 99.62% in 2024–25.\n3. The proportion of households electrified stood at 92% in 2024–25.\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "1 and 2 only",
+    "option_d": "2 and 3 only",
+    "correct_option": "C"
+  },
+  {
+    "question": "With reference to the North Eastern Region (NER) District Sustainable Development Goals (SDG) Index Report 2023-24, consider the following statements:\n1. The report was released jointly by NITI Aayog and the Ministry of Development of North Eastern Region (MoDoNER), with technical support from UNDP India.\n2. Hnahthial district of Mizoram scored the highest in the region with 81.43 points, while Longding district of Arunachal Pradesh scored the lowest with 58.71 points.\n3. All districts in Mizoram, Sikkim and Tripura achieved Front Runner status, with none in the Aspirant or Achiever categories.\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "1 and 2 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the World Investment Report 2025: International investment in the digital economy, consider the following statements:\n1. The report was released by the UN Trade and Development (UNCTAD).\n2. Global FDI declined by 11% in 2024 to reach $1.5 trillion, marking the second consecutive year of contraction.\n3. India ranked 25th in 2024 as a top FDI host economy, an improvement from 36th in 2023, with inflows of $28 billion.\nWhich of the above statements is/are correct?",
+    "option_a": "1 and 2 only",
+    "option_b": "2 only",
+    "option_c": "3 only",
+    "option_d": "2 and 3 only",
+    "correct_option": "A"
+  },
+  {
+    "question": "As per the World Investment Report 2025: International investment in the digital economy, __________ ranked 1st among the top home economies of FDI outflows, while India was placed at rank __________ in 2024, improving from 23rd position in 2023.",
+    "option_a": "United States; 18",
+    "option_b": "Japan; 18",
+    "option_c": "China; 17",
+    "option_d": "Luxembourg; 19",
+    "correct_option": "A"
+  },
+  {
+    "question": "The report “Trends in Maternal Mortality 2000 to 2023” was released jointly by which of the following organisations?",
+    "option_a": "World Health Organization (WHO)",
+    "option_b": "United Nations International Children’s Fund (UNICEF)",
+    "option_c": "United Nations Population Fund (UNFPA)",
+    "option_d": "All of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per the report “Trends in Maternal Mortality 2000 to 2023”, India’s Maternal Mortality Ratio (MMR) in 2023 was __________ per 100,000 live births, showing an 86% decline since 1990, against a global reduction of __________.",
+    "option_a": "85; 50%",
+    "option_b": "90; 40%",
+    "option_c": "80; 48%",
+    "option_d": "70; 42%",
+    "correct_option": "C"
+  },
+  {
+    "question": "With reference to the Management Effectiveness Evaluation (MEE) for 2020–2025 released by the Union Ministry of Environment, Forest and Climate Change, consider the following statements:\n1. Kerala secured the top position, being the only state to receive a “Very Good” rating.\n2. Chandigarh was the top performer among Union Territories, while Ladakh was the only region classified as “Poor.”\n3. Eravikulam National Park (Kerala) and Dachigam National Park (Jammu & Kashmir) were identified as the lowest-scoring Protected Areas (PAs).\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 only",
+    "option_d": "1 and 3 only",
+    "correct_option": "B"
+  },
+  {
+    "question": "With reference to The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy released by the World Bank, consider the following statements:\n1. The Global Findex Database was first launched in 2011 and this edition follows those published in 2011, 2014, 2017, and 2021.\n2. The 2025 edition introduces the Digital Connectivity Tracker to measure mobile technology access and usage.\n3. Globally, 79% of adults have an account with a bank, mobile money provider, or both, which is up by 28 percentage points since 2011.\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy, consider the following statements:\n1. In 2024, 60% of adults in developing economies saved in a financial account, marking a 16 percentage-point increase since 2021, the fastest growth in over a decade.\n2. In India, account ownership increased by over 50 percentage points, reaching 89%, with 88.7% held in banks and 23.1% using mobile money accounts.\n3. In India, 16% of account owners had inactive accounts, one of the highest globally, compared to just 4% in other low- and middle-income economies.\nWhich of the above statements is/are incorrect?",
+    "option_a": "1 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1 and 3 only",
+    "correct_option": "A"
+  },
+  {
+    "question": "As per the 2024 Economic Impact Trends Report released by the World Travel & Tourism Council (WTTC) in collaboration with Oxford Economics, which one of the following countries does NOT belong to the group of top 5 largest global travel economies?",
+    "option_a": "United States of America (USA)",
+    "option_b": "Germany",
+    "option_c": "United Kingdom (UK)",
+    "option_d": "Russia",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the 2024 Economic Impact Trends Report released by the World Travel & Tourism Council (WTTC) in collaboration with Oxford Economics, which of the following statements are incorrect?\n1. In 2024, Travel & Tourism contributed US$10.9 trillion to the global GDP, accounting for 10% of the world economy.\n2. The sector supported 400 million jobs globally, equivalent to about 1 in every 8 jobs.\n3. India contributed US$250 billion to the global tourism economy in 2024.",
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "3 only",
+    "option_d": "2 and 3 only",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per the QS Best Student Cities 2026 released by Quacquarelli Symonds (QS), __________ ended London’s six-year run at the top of the rankings, while among Indian cities, __________ ranked 98th and __________ ranked as the world’s most affordable student city.",
+    "option_a": "Tokyo; Delhi; Bengaluru",
+    "option_b": "London; Mumbai; Chennai",
+    "option_c": "Seoul; Mumbai; Delhi",
+    "option_d": "Munich; Delhi; Bengaluru",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per the Henley Passport Index 2025 released by Hurun Global, __________ ranked 1st with visa-free access to 193 destinations, __________ was placed last at 99th with access to only 25 destinations, while India ranked _______ globally, improving eight positions from 2024.",
+    "option_a": "Japan; Syria; India",
+    "option_b": "Singapore; Afghanistan; 77th",
+    "option_c": "South Korea; Iraq; India",
+    "option_d": "Singapore; Afghanistan; China",
+    "correct_option": "B"
+  },
+  {
+    "question": "With reference to the Global Unicorn Index 2025 released by Hurun Global, consider the following statements:\n1. The United States of America ranked 1st with 758 unicorns, the highest in the world.\n2. India ranked 3rd globally with 64 unicorns in 2025.\n3. San Francisco topped the list of cities with the most unicorns, and from India, Bengaluru featured in the list.\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "1 and 2 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per the Statistical Review of World Energy 2025 released by the Energy Institute (EI) in collaboration with Kearney and KPMG, what is the rank of India among the top consumers of biofuel?",
+    "option_a": "2nd",
+    "option_b": "3rd",
+    "option_c": "4th",
+    "option_d": "5th",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per the inaugural TIME 100 Creators List, who was the sole Indian featured on the list?",
+    "option_a": "Dhar Mann",
+    "option_b": "Michelle Khare",
+    "option_c": "Prajakta Koli",
+    "option_d": "Samir Chaudry",
+    "correct_option": "C"
+  },
+  {
+    "question": "With reference to Global Gender Gap Report 2025, consider the following statements and identify incorrect statements:\n1. The report has been released by World Economic Forum, annually benchmarks the current state and evolution of gender parity.\n2. The framework assesses the gender parity across 4 sub-indexes, on a scale of 0 to 1.\n3. Iceland has topped the report and is followed by Finland, Norway on 2nd and 3rd position respectively.",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "None of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "Consider the following statements regarding the Global Gender Gap Report 2025:\n1. The Global Gender Gap Index score has shown a consistent improvement, increasing from 64.1% in 2006 to 68.8% in 2025, reflecting a total rise of 4.8 percentage points over this period.\n2. Bangladesh recorded the most significant advancement in the rankings, moving upward by 75 positions to secure the 24th place, marking the highest improvement among all economies in the report.\n3. India, with a parity score of 64.4% in the 2025 edition of the report, is counted among the highest-performing countries in South Asia, ahead of most of its regional peers.\nWhich of the above statements is/are correct?",
+    "option_a": "1 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1 and 3 only",
+    "correct_option": "B"
+  },
+  {
+    "question": "Consider the following statements regarding the State of the World Population 2025 report:\n1. The State of the World Population 2025 report has been released by the United Nations Population Fund (UNFPA), focusing on global demographic changes.\n2. By April 2025, India’s population touched 146.39 crore, and the country’s Total Fertility Rate (TFR) declined to 1.9, which is below the replacement level of 2.1.\n3. The report states that almost one-fifth of reproductive-age adults (about 18%) believe they will be able to have the exact number of children they desire.\nWhich of the above statements is/are incorrect?",
+    "option_a": "3 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1 and 3 only",
+    "correct_option": "A"
+  },
+  {
+    "question": "Consider the following statements regarding the State of the World Population 2025 report:\n1. India has overtaken China to become the world’s most populous country, with China’s current population estimated at 141.61 crore.\n2. The adolescent fertility rate in India is recorded at 14.1 births per 1,000 women in the age group of 15–19 years.\n3. As per 2025 projections, life expectancy at birth in India is estimated at 71 years for men and 74 years for women.\nWhich of the above statements is/are incorrect?",
+    "option_a": "1 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 and 3 only",
+    "option_d": "None of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "Recently (June 2025), the Sustainable Development Report 2025 was released. Consider the following statements regarding India’s performance and the global trends in the SDG Index, and identify the incorrect statements:\n1. As per the 2025 report, only 17% of the global Sustainable Development Goals (SDG) targets are currently progressing on schedule and are likely to be achieved by the year 2030.\n2. India has made remarkable progress and has been placed among the top 50 performing countries globally in the SDG Index 2025 out of a total of 167 nations assessed.\n3. The SDG Index, which assesses progress toward achieving the 17 goals adopted in 2015, is released by the United Nations Sustainable Development Solutions Network (UN SDSN).",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "Only 2",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which of the following countries does not belong to the top-countries as per Sustainable Development Report 2025?",
+    "option_a": "Finland",
+    "option_b": "Sweden",
+    "option_c": "Denmark",
+    "option_d": "South Sudan",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the Performance Grading Index (PGI) 2.0 for States/UTs - 2023-24, consider the following statements and identify incorrect statements:\n1. The report released by Department of School Education and Literacy, Ministry of Education helps States/UTs to identify specific interventions required to make transformational changes in school education.\n2. PGI framework carries a total weightage of 1000 points, distributed across 73 indicators, categorized under 2 broad areas: Outcomes and Governance & Management.\n3. The highest grade achieved under the PGI is Prachesta-1, which corresponds to a score range of 701–760. Only Chandigarh has attained Grade Prachesta -1, no state or UT made it to the top 4 levels.",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "None of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference World Energy Investment Report 2025, consider the following statements and identify incorrect statements:",
+    "option_a": "According to the report released by IEA, global energy investment is projected to reach $3.3 trillion in 2025 (2% increase over 2024).",
+    "option_b": "Clean energy technologies are set to attract $2.2 trillion, twice the projected investment in fossil fuels.",
+    "option_c": "China remains the world’s largest energy investor, with its share of global clean energy investment rising from one-fourth a decade ago to nearly one-third in 2025. While, India stood on 6th position.",
+    "option_d": "India’s renewable power investment decreased from $37 billion (2015) to $13 billion (2025)",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which one of the following statements are incorrect as per the Fostering Effective Energy Transition Report 2025:\n1. It has been released by World Economic Forum in collaboration with Accenture.\n2. A country’s final ETI score is a weighted composite of two sub-indices: system performance (60%) and transition readiness (40%).\n3. Sweden has topped the report followed by Finland and Denmark. India on 71st position with a score of 53.3.\n4. In 2025, 77 out of 118 countries (65%) improved their overall ETI scores\n5. The 2025 Energy Transition Index (ETI) showed a 1.1% rise in global scores compared to last year",
+    "option_a": "1 and 4 only",
+    "option_b": "2 and 5 only",
+    "option_c": "3 only",
+    "option_d": "None of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the Global Economic Prospects - June 2025 released by the World Bank Group, consider the following statements and identify incorrect statements:\n1. Global growth is expected to slow to 2.6% in 2025, due to higher trade barriers, rising uncertainty, financial volatility, and weakened confidence.\n2. By 2027, average global GDP growth in the 2020s is projected to be just 2.5%, the slowest for any decade since the 1960s.\n3. India’s growth forecast for Financial Year (FY) 2025–26 has been revised to 6.3%, due to weaker export and investment growth.",
+    "option_a": "1 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "All of the above",
+    "correct_option": "A"
+  },
+  {
+    "question": "According to the Child Labour: Global estimates 2024, released by The International Labour Organization (ILO) and the United Nations Children’s Fund (UNICEF), Child labour continues to affect _________ (7.8%) children (aged 5 to 17 years) worldwide, with _____ (3.1%) of these engaged in hazardous work.",
+    "option_a": "510 million; 24 million",
+    "option_b": "210 million; 34 million",
+    "option_c": "170 million; 44 million",
+    "option_d": "137.8 million; 54 million",
+    "correct_option": "D"
+  },
+  {
+    "question": "Consider the following statements regarding the Global Peace Index 2025:\n1. The Global Peace Index 2025 was released by the Institute for Economics and Peace (IEP) and evaluates peace across three primary areas.\n2. Iceland has topped the index while India’s ranking in the index declined from 116th in 2024 to 115th in 2025, with a score of 2.229 showing an improvement of 0.58%.\n3. The 2025 index indicates that the average global peacefulness improved by 0.36% compared to the previous year.\nWhich of the above statements is/are incorrect?",
+    "option_a": "3 only",
+    "option_b": "1 and 2 only",
+    "option_c": "2 and 3 only",
+    "option_d": "1 and 3 only",
+    "correct_option": "A"
+  },
+  {
+    "question": "Which of the following belong to the top-5 Universities as per the QS World University Rankings 2026?",
+    "option_a": "Massachusetts Institute of Technology (MIT) - United States",
+    "option_b": "Imperial College London - United Kingdom (UK)",
+    "option_c": "Stanford University - United States (US)",
+    "option_d": "All of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to India-specific findings in the Human Development Report 2025 titled “A matter of choice: People and possibilities in the age of AI”, consider the following statements and identify incorrect statements:\n1. India's Human Development Index (HDI) value has witnessed a growth of over 53% since 1990, surpassing the average progress observed in both global and South Asian contexts.\n2. As per the report, 13.5 crore people in India escaped multidimensional poverty between 2015–16 and 2019–21, out of a total national population of 144 crore.\n3. India has been ranked highest in the world for the prevalence of self-reported Artificial Intelligence (AI) skills among its population.",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "None of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which of the following countries are ranked among the top five in the Human Development Report 2025 released by the United Nations Development Programme (UNDP)?",
+    "option_a": "Iceland has secured the 1st rank with an HDI value of 0.972, placing it at the top globally.",
+    "option_b": "Both Norway and Switzerland have been jointly ranked at the 2nd position in the global HDI rankings.",
+    "option_c": "Denmark and Germany have also been included in the top five positions, ranked 4th and 5th respectively.",
+    "option_d": "All of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the Global Report on Food Crises (GRFC) 2025 released by the Food Security Information Network (FSIN), consider the following statements and identify incorrect statements:\n1. In 2024, approximately 295.3 million people, or 22.6% of the analysed population, faced high levels of acute food insecurity across 53 of the 65 assessed countries and territories.\n2. The year 2024 marked the sixth consecutive year where the share of people facing acute food insecurity exceeded 20%.\n3. The highest numbers of people facing acute food insecurity were reported from Nigeria, followed by Sudan and the Democratic Republic of the Congo.",
+    "option_a": "2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "All of the above",
+    "correct_option": "A"
+  },
+  {
+    "question": "With reference to the World Press Freedom Index 2025 released by Reporters Without Borders, consider the following statements and identify incorrect statements:\n1. India ranked 151st in 2025 with a score of 32.96, showing an improvement from its 159th position in 2024.\n2. In 2025, the global average score for press freedom dropped to 54.7, placing the overall global situation in the 'difficult' category for the first time in the Index’s history.\n3. Among the top five countries, Norway leads the list with the highest score, followed by Estonia, Netherlands, Sweden, and Finland.",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "None of the above",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the World Social Report 2025 titled “A New Policy Consensus to Accelerate Social Progress”, approximately how many people across the world are currently living in extreme poverty, defined as living on less than $2.15 per day?",
+    "option_a": "690 million",
+    "option_b": "610 million",
+    "option_c": "670 million",
+    "option_d": "590 million",
+    "correct_option": "A"
+  },
+  {
+    "question": "The Reserve Bank of India has signed its renewed Statement of Commitment (SoC) to the FX Global Code (“Code”). It was developed by a partnership between central banks and market participants from around the globe and was first published in ______________.",
+    "option_a": "2015",
+    "option_b": "2016",
+    "option_c": "2017",
+    "option_d": "2018",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Payments Regulatory Board has been constituted under Section 3 (2) of PSS Act, 2007 consisting of which of the following members?\n1. Governor\n2. Deputy Governor In-charge of the Payment and Settlement Systems\n3. Executive Director In-charge of the Payment and Settlement Systems\n4. Secretary, Ministry of Finance\n5. Secretary, Department of Financial Services\n6. Shaktikanta das, IAS retd",
+    "option_a": "1, 2, 3 and 4",
+    "option_b": "2, 3, 4 and 5",
+    "option_c": "1, 3, 4 and 6",
+    "option_d": "1, 2, 3 and 5",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which of the following statements is incorrect regarding the Payments Regulatory Board (PRB) as per the Payments Regulatory Board Regulations, 2025?",
+    "option_a": "The PRB will be chaired by the RBI Governor and will include 3 members nominated by the Central Government.",
+    "option_b": "Members nominated by the Central govt can not be above 70 years of age.",
+    "option_c": "Member of the Board nominated by Central Govt, unless he is a public servant as defined in Bharatiya Nyaya Sanhita, 2023, shall hold office for a period of four years and shall not be eligible for re-nomination.",
+    "option_d": "The Board shall ordinarily meet at least 4 times in a year at such place or through such mode as may be decided by the Chairperson from time to time.",
+    "correct_option": "D"
+  },
+  {
+    "question": "The 32nd meeting of the Sub-Committee of the Financial Stability and Development Council (FSDC-SC) was held in Mumbai. Institutionally, the FSDC Sub-Committee is chaired by which office?",
+    "option_a": "Finance Secretary, Government of India",
+    "option_b": "Chief Economic Adviser (CEA)",
+    "option_c": "Chairperson, SEBI",
+    "option_d": "Governor, Reserve Bank of India",
+    "correct_option": "D"
+  },
+  {
+    "question": "Reserve Bank of India released the balance of payments (BoP) data for the first quarter (Q1), i.e., April-June of 2025-26. Foreign exchange reserves in nominal terms (i.e., including valuation effects) increased by US$ __________ billion during April-June 2025 as compared with an increase of US$ 5.6 billion in April-June 2024.",
+    "option_a": "29.8",
+    "option_b": "27.6",
+    "option_c": "25.9",
+    "option_d": "24.5",
+    "correct_option": "A"
+  },
+  {
+    "question": "India’s current account balance recorded a deficit of ___________of GDP in Q1:2025-26 as compared with 0.9% of GDP in Q1:2024-25 and against a surplus of 1.3% of GDP in Q4:2024-25.",
+    "option_a": "0.6%",
+    "option_b": "0.5%",
+    "option_c": "0.4%",
+    "option_d": "0.2%",
+    "correct_option": "D"
+  },
+  {
+    "question": "With reference to the Reserve Bank’s 35th Conference of the State Finance Secretaries, the theme “Journey towards Economic Prosperity through the Path of Fiscal Consolidation” most appropriately aligns with which of the following policy stances for States?",
+    "option_a": "Front-loading broad-based tax cuts and generalized subsidies financed by higher deficits",
+    "option_b": "Prioritizing debt sustainability, improving quality of expenditure with a glide path of deficit reduction",
+    "option_c": "Delaying fiscal transparency to preserve policy flexibility during consolidation",
+    "option_d": "Curbing capital outlays to preserve all revenue spending in the short run",
+    "correct_option": "B"
+  },
+  {
+    "question": "Regarding the Regulatory Review Mechanism introduced by the Reserve Bank, consider the following statements:\n1. A Regulatory Review Cell (RRC) will be housed in the Department of Regulation.\n2. The RRC becomes operational with effect from October 1, 2025.\n3. The newly formed Advisory Group on Regulation (AGR) is chaired by Shyam Srinivasan.\n4. The RRC’s mandate is a comprehensive internal review of all RBI regulations every 5 to 7 years.\nWhich of the above statements is/are correct?",
+    "option_a": "1, 2 and 3 only",
+    "option_b": "1, 3 and 4 only",
+    "option_c": "2, 3 and 4 only",
+    "option_d": "1, 2 and 4 only",
+    "correct_option": "D"
+  },
+  {
+    "question": "Following the launch of the next generation datawarehouse of the RBI, i.e. Centralised Information Management System (CIMS), RBI has decided to commence the reporting of the Internet Banking Return and Mobile Banking Return in CIMS. As per the extant practice, the returns for every month should be submitted by the ____________ of the succeeding month.",
+    "option_a": "1st",
+    "option_b": "5th",
+    "option_c": "7th",
+    "option_d": "15th",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following statements is incorrect regarding the (Regulation of Payment Aggregators) Directions, 2025?",
+    "option_a": "A bank does not require authorisation to carry out PA business.",
+    "option_b": "If a non-bank entity is regulated by any financial sector regulator, it must get a No Objection Certificate (NOC) from that regulator and then apply for authorisation within 45 days of receiving the NOC.",
+    "option_c": "An entity, whose application for grant of CoA for PA-O or PA – CB is under consideration of RBI – shall intimate the Reserve Bank about its existing PA-P business, if any, through the online portal, by December 31, 2025.",
+    "option_d": "An entity seeking authorisation to commence or carry on PA business shall have a minimum net-worth of ₹20 crore at the time of tendering application for authorisation; and shall attain a minimum net-worth of ₹25 crore by the end of third financial year of grant of authorisation.",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per the Master Direction on Regulation of Payment Aggregator (PA), A PA-CB shall not purchase foreign currency from, or sell it to, any entity other than an Authorised Dealer (AD). In respect of inward or outward transactions processed by a PA - CB, the maximum value per transaction shall be ₹__________ lakh.",
+    "option_a": "5",
+    "option_b": "10",
+    "option_c": "15",
+    "option_d": "25",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Reserve Bank of India had issued the ‘Guidelines on Regulation of Payment Aggregators and Payment Gateways’ on March 17, 2020 and on March 31, 2021 for regulation of entities that were engaged in online payment aggregation. Further, on October 31, 2023, directions were issued on ‘Regulation of Payment Aggregator – Cross Border (PA - Cross Border)’. Which of the following statements is/are correct in this regards?\n1. Pre-funding is allowed in Escrow Account (Domestic), but it is not allowed in Inward Collection Account (InCA) and Outward Collection Account (InCA).\n2. The core portion of escrow account shall be permissible to entities who have been in business for twenty-nine (29) fortnights and whose accounts have been duly audited for the full accounting year.\n3. Payment to any other account (third party), on specific direction of a merchant, having physical or online presence with an annual turnover above ₹50 lakh or an annual export turnover of more than ₹5 lakh, provided the third party is the payee that interfaces with the payer for purchase / delivery of goods, services or investment products, for the underlying transaction.",
+    "option_a": "1 and 2",
+    "option_b": "2 and 3",
+    "option_c": "1 and 3",
+    "option_d": "1 only",
+    "correct_option": "D"
+  },
+  {
+    "question": "Under the Reserve Bank of India (Authentication Mechanisms for Digital Payment Transactions) Directions, 2025, which of the following statements is correct?",
+    "option_a": "All digital payment transactions in India must be authenticated using exactly three factors of authentication, with at least one factor being biometric.",
+    "option_b": "Issuers are prohibited from using SMS-based OTP as a factor of authentication under these directions.",
+    "option_c": "At least two factor of authentication for digital payment transactions, other than card-present transactions, must be dynamically created or proven.",
+    "option_d": "Card issuers shall, by October 01, 2026, put in place a mechanism to validate non-recurring, cross-border card not present transactions, where request for authentication is raised by an overseas merchant/acquirer.",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which of the following statements correctly describes the new Auto-bidding facility introduced in the RBI's Retail Direct portal?",
+    "option_a": "It allows investors to purchase only long-term Government Securities in the secondary market.",
+    "option_b": "It permits automatic bidding in T-bill auctions, with investment and re-investment options.",
+    "option_c": "It restricts retail investors from participating in primary auctions of T-bills.",
+    "option_d": "The auto-bidding facility is available only for corporate investors with large portfolios.",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which of the above statements is correct regarding the eligibility and conditions for a Small Finance Bank (SFB) to transition into a Universal Bank?",
+    "option_a": "An SFB must have a minimum net worth of ₹100 crore as at the end of the previous audited quarter.",
+    "option_b": "There is mandatory requirement for an eligible SFB to have an identified promoter while transitioning.",
+    "option_c": "The SFB to have scheduled status with a satisfactory track record of performance for a minimum period of five years.",
+    "option_d": "The SFB to have GNPA and NNPA of less than or equal to 2% and 1% respectively in the last 2-financial years.",
+    "correct_option": "C"
+  },
+  {
+    "question": "Recently, the Reserve Bank of India approved the amalgamation of which co-operative bank with Saraswat Co-operative Bank Ltd., Mumbai?",
+    "option_a": "Abhyudaya Co-operative Bank Ltd.",
+    "option_b": "New India Co-operative Bank Ltd.",
+    "option_c": "Cosmos Co-operative Bank Ltd.",
+    "option_d": "Bharat Co-operative Bank Ltd.",
+    "correct_option": "B"
+  },
+  {
+    "question": "Under the 5th cohort, Products of the entities which completed the ‘Test Phase’ were evaluated based on mutually agreed test scenarios and expected outcomes. Accordingly, one product was found viable within the boundary conditions defined during testing under RS. Which of the following statements is/are incorrect in this regards?\n1. The Fifth Cohort of the RS which was ‘Theme Neutral’.\n2. Indian Banks’ Digital Infrastructure Company (IBDIC) Pvt. Ltd. – blockchain-based deep-tier financing solution enabling MSMEs to access affordable finance has been found viable and has successfully exited the cohort\n3. Partner Financial Institutions are IDFC First Bank, IndusInd Bank, State Bank of India and Policybazaar Fintech.",
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "3 only",
+    "option_d": "1 and 3",
+    "correct_option": "C"
+  },
+  {
+    "question": "With reference to the newly issued RBI (Co-Lending Arrangements) Directions, 2025, Which of the following statements is/are correct?\n1. Each regulated entity (RE) must retain at least 10% of every loan under a CLA in its own books.\n2. Originating REs may provide Default Loss Guarantee (DLG) up to 10% of loans outstanding under CLA, subject to compliance with Digital Lending Directions.\n3. Loan shares of each partner RE must be reflected in their books of account within 15 calendar days of disbursement.",
+    "option_a": "1 and 2",
+    "option_b": "2 and 3",
+    "option_c": "1 and 3",
+    "option_d": "1 only",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI has decided to transition CTS to continuous clearing and settlement on realisation in two phases. Phase 1 shall be implemented on October 4, 2025 and Phase 2 on January 3, 2026. There shall be a single presentation session from 10:00 AM to _____________. The confirmation session shall start at 10:00 AM and close at _____________________.",
+    "option_a": "12:00 PM, 3:00 PM",
+    "option_b": "1:00 PM, 4:00 PM",
+    "option_c": "2:00 PM, 5:00 PM",
+    "option_d": "4:00 PM, 7:00 PM",
+    "correct_option": "D"
+  },
+  {
+    "question": "RBI has decided to transition CTS to continuous clearing and settlement on realisation in two phases. Phase 1 shall be implemented on October 4, 2025 and Phase 2 on January 3, 2026. In Phase 2 (from January 3, 2026), the item expiry time of cheques shall be changed to ____________ clear hours.",
+    "option_a": "T+1",
+    "option_b": "T+2",
+    "option_c": "T+3",
+    "option_d": "T+4",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following statements is/are incorrect?\n1. Bank credit growth (y-o-y) decelerated to 9.9% in June 2025 from 15.0% (net of merger) in June 2024\n2. In line with monetary policy actions, the weighted average lending rate (WALR) on outstanding credit declined by 59 bps during April–June 2025, with reductions observed across all major sectors.\n3. Public sector banks recorded higher credit growth (y-o-y) than private sector banks and foreign banks in June 2025, sustaining their leading position of 53.7% in total credit.",
+    "option_a": "1 and 2",
+    "option_b": "2 and 3",
+    "option_c": "1 and 3",
+    "option_d": "2 only",
+    "correct_option": "D"
+  },
+  {
+    "question": "Reserve Bank released the web publication ‘Quarterly Basic Statistical Return (BSR)-2 on Deposits with Scheduled Commercial Banks – June 2025’ on its ‘Database on Indian Economy’ portal. Bank deposits with SCB’s registered a growth (y-o-y) of ___________________% as at end-June 2025 as compared with that of 11.7% (net of merger) a year ago.",
+    "option_a": "10.2",
+    "option_b": "10.7",
+    "option_c": "11.1",
+    "option_d": "11.3",
+    "correct_option": "D"
+  },
+  {
+    "question": "A RE shall put in place suitable internal aggregate/ individual ceilings for issuance of guarantees in general and unsecured guarantees in particular. Provided that the total volume of guaranteed obligations of UCBs, RRBs, LABs, StCBs and CCBs outstanding at any time shall not exceed ______________ of their total assets as per the previous financial year’s balance sheet. Further, unsecured guarantees of these REs shall be restricted to ____________of total assets. Any such RE in breach of the above stipulation as on the date of issue of these Directions shall meet the above threshold by April 01, 2027.",
+    "option_a": "2%, 0.5%",
+    "option_b": "5%, 1.25%",
+    "option_c": "7%, 2.5%",
+    "option_d": "10%, 5.25%",
+    "correct_option": "B"
+  },
+  {
+    "question": "As per the Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025, Which of the following statements is incorrect in regards to the Partial Credit Enhancement?",
+    "option_a": "Scheduled Commercial Banks (SCBs) (excluding RRBs), All India Financial Institutions (AIFIs) and NBFCs (Middle Layer and above) including Housing Finance Companies (HFCs) are the entities allowed to provide Partial Credit Enhancement (PCE).",
+    "option_b": "The PCE exposure limit by a single RE shall be 50 per cent of the bond issue size.",
+    "option_c": "The aggregate exposure limit of all REs towards the PCE for a given bond issue has also been capped at 50 per cent of the bond issue size.",
+    "option_d": "Since PCE is drawn only when a project faces cash flow shortfall (distress signal): Drawn PCE must be repaid within 15 days and If unpaid for 90 days or more from due date, it becomes NPA.",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per the Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025, PCE exposure by a RE to a single counterparty or group of counterparties shall be within the overall regulatory exposure limits applicable to each category of RE. The aggregate PCE exposure of a RE shall not exceed _____________ per cent of its Tier 1 capital. The tenor of the bond issued by NBFCs/ HFCs for which PCE is provided shall not be less than _________ years.",
+    "option_a": "2%, 5",
+    "option_b": "5%, 10",
+    "option_c": "10%, 15",
+    "option_d": "20%, 3",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which of the following is among the parameters covered under the Rural Consumer Confidence Survey (RCCS) conducted by the RBI?",
+    "option_a": "Stock market performance",
+    "option_b": "Interest rate expectations",
+    "option_c": "Overall price situation",
+    "option_d": "Foreign exchange reserves",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Reserve Bank of India has been regularly conducting Inflation Expectations Survey of Households (IESH). The survey aims at capturing subjective assessments on price movements and inflation, based on their individual consumption baskets, across 19 cities. Which of the following cities is not among the 19 cities covered under the Inflation Expectations Survey of Households (IESH) conducted by the RBI?",
+    "option_a": "Raipur",
+    "option_b": "Ranchi",
+    "option_c": "Surat",
+    "option_d": "Thiruvananthapuram",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS) every two months. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in _______ cities.",
+    "option_a": "10",
+    "option_b": "15",
+    "option_c": "17",
+    "option_d": "19",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the Reserve Bank of India (Know Your Customer (KYC)) (2nd Amendment) Directions, 2025, for verifying the identity of customers at the time of account opening or while carrying out occasional transactions, what is the minimum transaction amount (single or multiple connected transactions) at or above which regulated entities (REs) may rely on customer due diligence done by a third party?",
+    "option_a": "10,000",
+    "option_b": "50,000",
+    "option_c": "75,000",
+    "option_d": "1,00,000",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which of the following statements is/are correct regarding the RBI's Committee on Framework for Responsible and Ethical Enablement of Artificial Intelligence (FREE-AI) in the financial sector?\n1. The FREE-AI Committee was chaired by Dr. Pushpak Bhattacharyya and submitted 7 key Sutras.\n2. The Committee focused solely on risk mitigation and recommended 26 compliance measures for NBFCs.\n3. The FREE-AI Committee identified 6 strategic pillars, including Infrastructure, Policy, Capacity, Governance, Protection, and Assurance.",
+    "option_a": "1 and 2",
+    "option_b": "1 and 3",
+    "option_c": "2 and 3",
+    "option_d": "1 only",
+    "correct_option": "B"
+  },
+  {
+    "question": "_________ rolled out a special personal loan scheme for Agniveers?",
+    "option_a": "State Bank of India",
+    "option_b": "Punjab National Bank",
+    "option_c": "Bank of Maharashtra",
+    "option_d": "HDFC",
+    "correct_option": "A"
+  },
+  {
+    "question": "Consider the following statements about the Unified Pension Scheme (UPS):\n1. Employees contribute 10% of Basic Pay + DA.\n2. Employees can exercise investment choice for pooled corpus.\n3. The Central Government contributes an additional 8.5% into a pooled corpus.\nWhich of the statements are correct?",
+    "option_a": "1 and 2 only",
+    "option_b": "2 and 3 only",
+    "option_c": "1 and 3 only",
+    "option_d": "1, 2 and 3",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following statements about the Unified Pension Scheme (UPS) approved by the Union Cabinet is/are correct?\n1. The scheme guarantees a pension of 50% of the average basic pay for the last 12 months before superannuation, with a minimum qualifying service of 25 years.\n2. The assured family pension under UPS is set at 60% of the employee's pension before their demise.\n3. The scheme offers a lump sum payment at superannuation equal to 1/10th of monthly emoluments (pay + DA) for every completed six months of service, in addition to gratuity, without reducing the assured pension amount.\n4. Dearness Relief under UPS is based on the Wholesale Price Index (WPI) for Industrial Workers.",
+    "option_a": "Only 2 and 3",
+    "option_b": "Only 2 and 4",
+    "option_c": "Only 1, 2 and 3",
+    "option_d": "All statements are correct",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the Following statements is/are correct with respect to Prime Minister’s Internship Scheme?\n1. The scheme provides training for youth between 21 and 24 years of age, with a preference for those who are full-time employed or pursuing higher education.\n2. Partner companies are permitted to offer internships in collaboration with their suppliers, or other value chain entities if they are unable to provide in-house internship opportunities.\n3. The interns are insured under government schemes like PM Jeevan Jyoti Bima Yojana and PM Suraksha Bima Yojana, with premiums entirely covered by the companies.\n4. The Ministry of Corporate Affairs (MCA) will issue a one-time grant of ₹6,000 to cover incidental expenses when interns join their workplace.",
+    "option_a": "Only 1 and 3",
+    "option_b": "Only 2 and 4",
+    "option_c": "Only 3 and 4",
+    "option_d": "Only 2 and 3",
+    "correct_option": "B"
+  },
+  {
+    "question": "Consider the following statements regarding the Prime Minister’s Internship Scheme:\n1. The scheme aims to provide 1.25 crore internship opportunities within the fiscal year 2024-25, with the participation of India’s top 500 companies.\n2. Interns are required to dedicate at least 75% of the internship period to hands-on work experience in real-world job environments.\n3. A monthly stipend of ₹5,000 is provided, with ₹4,500 funded by the government and ₹500 contributed by the companies from their Corporate Social Responsibility (CSR) funds.\nWhich of the above statements is/are correct?",
+    "option_a": "Only 1 and 2",
+    "option_b": "Only 2 and 3",
+    "option_c": "Only 1 and 3",
+    "option_d": "Only 3",
+    "correct_option": "D"
   }
 ]
