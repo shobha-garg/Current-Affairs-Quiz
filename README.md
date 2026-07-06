@@ -2,8 +2,6 @@
 
 An interactive web-based assessment platform designed to help aspirants practice **Banking, Economy, RBI, and Current Affairs** through timed quizzes with real-time score tracking and performance evaluation.
 
-🌐 **Live Demo:** [https://banking-ca.onrender.com](https://banking-ca.onrender.com)
-
 ---
 
 ## 📌 Overview
